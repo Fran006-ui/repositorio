@@ -1,0 +1,1630 @@
+1.2
+lxqt-applications.menu+hidden
+19
+D/home/alfgba/.local/share/desktop-directories
+D/usr/share/Lubuntu/desktop-directories
+D/usr/local/share/desktop-directories
+D/usr/share/desktop-directories
+D/var/lib/snapd/desktop/desktop-directories
+D/home/alfgba/.local/share/applications
+D/usr/share/Lubuntu/applications
+D/usr/local/share/applications
+D/usr/share/applications
+D/usr/share/applications/screensavers
+D/var/lib/snapd/desktop/applications
+D/usr/share/menus/applications-merged
+D/etc/menus/applications-merged
+D/etc/xdg/menus/applications-merged
+D/etc/xdg/xdg-Lubuntu/menus/applications-merged
+D/home/alfgba/.config/menus/applications-merged
+F/home/alfgba/.config/menus/lxqt-applications.menu
+F/etc/xdg/xdg-Lubuntu/menus/lxqt-applications.menu
+F/etc/xdg/menus/lxqt-applications.menu
+MATE;LXQt;
++Applications
+Aplicaciones
+Aplicaciones
+applications-other
+lxde-menu-applications.directory
+3
+0
++Universal Access
+Acceso universal
+Preferencias del acceso universal
+preferences-desktop-accessibility
+lxde-utility-accessibility.directory
+3
+4
+
++Accessories
+Accesorios
+Accesorios del escritorio
+applications-accessories
+lxde-utility.directory
+3
+0
+-byobu.desktop
+Byobu Terminal
+Advanced Command Line and Text Window Manager
+byobu
+
+8
+
+env TERM=xterm-256color byobu
+1
+0
+
+
+GNOME;GTK;Utility
+
+-compton.desktop
+compton
+A X compositor
+compton
+
+8
+X compositor
+compton
+0
+0
+compton
+
+Utility
+x,x11,compositor
+-featherpad.desktop
+FeatherPad
+Editor de texto ligero basado en Qt
+featherpad
+
+8
+Editor de texto
+featherpad %U
+0
+0
+
+
+Qt;Utility;TextEditor
+Text,Editor,Plaintext
+-pcmanfm-qt.desktop
+Gestor de archivos PCManFM-Qt
+Explorar el sistema de archivos y gestionar los archivos
+system-file-manager
+
+8
+Gestor de archivos
+pcmanfm-qt %U
+2
+0
+
+
+FileManager;Utility;Core;Qt
+
+-org.kde.kcalc.desktop
+KCalc
+Calculadora que ofrece numerosas funciones matemáticas, como funciones trigonométricas, operaciones lógicas y cálculos estadísticos
+accessories-calculator
+
+8
+Calculadora científica
+kcalc
+2
+0
+
+
+Qt;KDE;Utility;Calculator;X-KDE-Utilities-Desktop
+
+-lxqt-archiver.desktop
+LXQt File Archiver
+File Archiver for the LXQt Desktop
+lxqt-archiver
+
+8
+File Archiver
+lxqt-archiver %U
+2
+0
+
+
+Qt;Utility;Archiving;Compression
+archive,manager,compression
+-noblenote.desktop
+nobleNote
+
+noblenote
+
+8
+
+noblenote
+0
+0
+
+
+Utility
+Note,Notes,Notice,Sticker,Memo
+-picom.desktop
+picom
+An X compositor
+picom
+
+8
+X compositor
+picom
+0
+0
+picom
+
+Utility
+compositor,composite manager,window effects,transparency,opacity
+-qlipper.desktop
+Qlipper
+Clipboard history tool
+qlipper
+
+8
+Clipboard Tool
+qlipper
+0
+0
+qlipper
+
+Qt;Utility
+
+-qtpass.desktop
+QtPass
+GUI for the standard unix password store
+qtpass-icon
+
+8
+Password Manager
+qtpass
+0
+0
+
+
+Security;Utility
+Password,Manager,QT
+-info.desktop
+TeXInfo
+The viewer for TexInfo documents
+dialog-information
+
+8
+
+info
+1
+0
+
+
+Utility;Documentation;ConsoleOnly
+
+-vim.desktop
+Vim
+Edita archivos de texto
+gvim
+
+8
+Text Editor
+vim %F
+1
+0
+vim
+
+Utility;TextEditor
+Text,editor
+
++Education
+Educación
+
+applications-science
+lxde-education.directory
+3
+4
+
++Graphics
+Gráficos
+Aplicaciones gráficas
+applications-graphics
+lxde-graphics.directory
+3
+0
+-display-im6.q16.desktop
+ImageMagick (color depth=q16)
+Display and edit image files
+display-im6.q16
+
+8
+
+/usr/bin/display-im6.q16 -nostdin %F
+0
+0
+
+
+Graphics
+Image,Slideshow,View,Transform,Enhance,F/X,Special Effects
+-libreoffice-draw.desktop
+LibreOffice Draw
+Cree y edite dibujos, diagramas de flujo y logotipos con Draw.
+libreoffice-draw
+
+8
+Programa de dibujo
+libreoffice --draw %U
+2
+0
+
+
+Office;FlowChart;Graphics;2DGraphics;VectorGraphics
+Vector,Schema,Diagram,Layout,OpenDocument Graphics,Microsoft Publisher,Microsoft Visio,Corel Draw,cdr,odg,svg,pdf,vsd
+-lximage-qt.desktop
+LXImage
+El visor de imágenes de LXQt
+lximage-qt
+
+8
+Visor de imágenes
+lximage-qt %F
+2
+0
+
+
+Graphics;Viewer;RasterGraphics;2DGraphics;Photography
+
+-screengrab.desktop
+ScreenGrab
+Captura la pantalla
+screengrab
+
+8
+Programa para capturas de pantalla
+screengrab
+0
+0
+
+
+Graphics;RasterGraphics;Qt
+
+-lximage-qt-screenshot.desktop
+Screenshot
+Take a screenshot
+camera-photo
+
+6
+Screenshot
+lximage-qt --screenshot
+6
+0
+
+
+Graphics;Core;Qt
+
+-org.kde.skanlite.desktop
+Skanlite
+Escanear y guardar imágenes
+org.kde.skanlite
+
+8
+Aplicación de escaneo de imágenes
+skanlite
+0
+0
+
+
+Qt;KDE;Graphics;Scanning
+
+
++System
+Herramientas del sistema
+Configuración y monitorización del sistema
+applications-system
+lxde-system-tools.directory
+3
+0
+-org.kde.bluedevilwizard.desktop
+Añadir dispositivo Bluetooth
+Añadir dispositivo Bluetooth
+preferences-system-bluetooth
+
+8
+Añadir dispositivo Bluetooth
+bluedevil-wizard %U
+0
+64
+
+
+Qt;KDE;X-Bluetooth;Network;System
+
+-org.kde.discover.apt.urlhandler.desktop
+Discover
+
+plasmadiscover
+
+8
+Centro de software
+plasma-discover %U
+4
+0
+
+
+Qt;KDE;System
+programa,software,repositorio,paquete,añadir,agregar,instalar,desinstalar,eliminar,borrar,actualizar,apps,aplicaciones,juegos,flatpak,snap,complementos,añadidos,firmware
+-org.kde.discover.desktop
+Discover
+
+plasmadiscover
+
+8
+Centro de software
+plasma-discover %F
+0
+0
+
+
+Qt;KDE;System
+programa,software,repositorio,paquete,añadir,agregar,instalar,desinstalar,eliminar,borrar,actualizar,apps,aplicaciones,juegos,flatpak,snap,complementos,añadidos,firmware
+-org.kde.discover.snap.desktop
+Discover
+
+plasmadiscover
+
+8
+Centro de software
+plasma-discover %U
+4
+0
+
+
+Qt;KDE;System
+programa,software,repositorio,paquete,añadir,agregar,instalar,desinstalar,eliminar,borrar,actualizar,apps,aplicaciones,juegos,flatpak,snap,complementos,añadidos,firmware
+-org.kde.discover.urlhandler.desktop
+Discover
+
+plasmadiscover
+
+8
+Centro de software
+plasma-discover %U
+4
+0
+
+
+Qt;KDE;System
+programa,software,repositorio,paquete,añadir,agregar,instalar,desinstalar,eliminar,borrar,actualizar,apps,aplicaciones,juegos,flatpak,snap,complementos,añadidos,firmware
+-org.kde.muon.desktop
+Gestor de paquetes de Muon
+
+muon
+
+8
+Gestor de paquetes
+muon
+0
+0
+
+
+Qt;KDE;System
+
+-org.kde.partitionmanager.desktop
+Gestor de particiones de KDE
+Gestionar discos, particiones y sistemas de archivos
+partitionmanager
+
+8
+Editor de particiones
+partitionmanager
+0
+0
+
+
+System;Filesystem;KDE;Qt
+partición,disco
+-htop.desktop
+Htop
+Mostrar procesos del sistema
+htop
+
+8
+Visor de procesos
+htop
+1
+0
+
+
+System;Monitor;ConsoleOnly
+system,process,task
+-qapt-deb-installer.desktop
+Instalador de paquetes QApt
+Instalar y ver paquetes de software
+applications-other
+
+8
+Instalador de paquetes
+qapt-deb-installer
+4
+4
+
+
+System
+
+-nm-tray.desktop
+nm-tray
+NetworkManager frontend (tray icon)
+network-transmit
+
+8
+
+nm-tray
+4
+0
+nm-tray
+
+System;Monitor;Qt
+
+-qps.desktop
+qps
+Qt application to display and manage running processes
+qps
+
+8
+Qt process manager
+qps
+0
+0
+qps
+
+System
+
+-qterminal.desktop
+Qterminal
+Emulador de terminal
+utilities-terminal
+
+8
+Emulador de terminal
+qterminal
+0
+0
+
+
+Qt;System;TerminalEmulator
+
+-qterminal-drop.desktop
+QTerminal desplegable
+Un emulador de terminal desplegable
+utilities-terminal
+
+8
+Terminal desplegable
+qterminal --drop
+0
+0
+
+
+Qt;System;TerminalEmulator
+
+-hplj1020.desktop
+Reactivate HP LaserJet 1018/1020 after reloading paper
+Click the button in this program when your printer ran out of paper and you have refilled the paper
+/usr/share/pixmaps/hplj1020_icon.png
+
+8
+
+/usr/share/foo2zjs/hplj10xx_gui.tcl
+6
+0
+
+
+System
+
+-usb-creator-kde.desktop
+Startup Disk Creator
+Create a startup disk using a CD or disc image
+usb-creator-kde
+
+8
+Startup Disk Creator
+usb-creator-kde
+0
+0
+
+
+System;KDE;Qt
+
+-com.gexperts.Tilix.desktop
+Tilix
+Una terminal divisible para Gnome
+com.gexperts.Tilix
+
+8
+
+tilix
+2
+0
+
+
+System;TerminalEmulator;X-GNOME-Utilities
+intérprete,shell,indicador,prompt,orden,línea de órdenes,cmd
+-org.kde.bluedevilsendfile.desktop
+Transferencia de archivos por Bluetooth
+Enviar archivos usando Bluetooth
+preferences-system-bluetooth
+
+8
+Transferencia de archivos por Bluetooth
+bluedevil-sendfile -k %u
+0
+64
+
+
+Qt;KDE;X-Bluetooth;Network;System
+
+
++Internet
+Internet
+Programas para acceso a Internet, tales como web y correo electrónico
+applications-internet
+lxde-network.directory
+3
+0
+-org.kde.bluedevilwizard.desktop
+Añadir dispositivo Bluetooth
+Añadir dispositivo Bluetooth
+preferences-system-bluetooth
+
+8
+Añadir dispositivo Bluetooth
+bluedevil-wizard %U
+0
+64
+
+
+Qt;KDE;X-Bluetooth;Network;System
+
+-org.kde.keditbookmarks.desktop
+Editor de marcadores
+Organizador y editor de marcadores
+bookmarks-organize
+
+8
+
+keditbookmarks
+4
+0
+
+
+Qt;KDE;Network;WebBrowser
+
+-quassel.desktop
+IRC Quassel
+Cliente IRC distribuido con un componente central
+quassel
+
+8
+Cliente IRC
+quassel
+0
+0
+quassel
+
+Qt;Network;Chat;IRCClient
+
+-org.kde.bluedevilsendfile.desktop
+Transferencia de archivos por Bluetooth
+Enviar archivos usando Bluetooth
+preferences-system-bluetooth
+
+8
+Transferencia de archivos por Bluetooth
+bluedevil-sendfile -k %u
+0
+64
+
+
+Qt;KDE;X-Bluetooth;Network;System
+
+-transmission-qt.desktop
+Transmission (Qt)
+Download and share files over BitTorrent
+transmission
+
+8
+BitTorrent Client
+transmission-qt %U
+0
+0
+
+
+Network;FileTransfer;P2P;Qt
+torrents,downloading,uploading,share,sharing
+
++Games
+Juegos
+Juegos y distracciones
+applications-games
+lxde-game.directory
+3
+0
+-2048-qt.desktop
+2048-Qt
+The 2048 number game implemented in Qt
+2048-qt
+
+8
+2048-Qt
+2048-qt
+0
+0
+
+
+Game;Math;Qt
+game,puzzle,sliding-puzzle,2048
+
++Office
+Oficina
+Aplicaciones de oficina
+applications-office
+lxde-office.directory
+3
+0
+-libreoffice-startcenter.desktop
+LibreOffice
+El conjunto de aplicaciones de productividad ofimática compatible con el formato de documentos abierto y estandarizado ODF. Con el apoyo de The Document Foundation.
+libreoffice-startcenter
+
+8
+Programas de oficina
+libreoffice %U
+2
+0
+
+
+Office;X-Red-Hat-Base;X-SuSE-Core-Office;X-MandrivaLinux-Office-Other
+
+-libreoffice-calc.desktop
+LibreOffice Calc
+Realice cálculos, analice información y maneje listas en hojas de cálculo con Calc.
+libreoffice-calc
+
+8
+Hoja de cálculo
+libreoffice --calc %U
+2
+0
+
+
+Office;Spreadsheet
+Accounting,Stats,OpenDocument Spreadsheet,Chart,Microsoft Excel,Microsoft Works,OpenOffice Calc,ods,xls,xlsx
+-libreoffice-draw.desktop
+LibreOffice Draw
+Cree y edite dibujos, diagramas de flujo y logotipos con Draw.
+libreoffice-draw
+
+8
+Programa de dibujo
+libreoffice --draw %U
+2
+0
+
+
+Office;FlowChart;Graphics;2DGraphics;VectorGraphics
+Vector,Schema,Diagram,Layout,OpenDocument Graphics,Microsoft Publisher,Microsoft Visio,Corel Draw,cdr,odg,svg,pdf,vsd
+-libreoffice-impress.desktop
+LibreOffice Impress
+Cree y edite presentaciones para charlas, reuniones y páginas Web con Impress.
+libreoffice-impress
+
+8
+Presentación
+libreoffice --impress %U
+2
+0
+
+
+Office;Presentation
+Slideshow,Slides,OpenDocument Presentation,Microsoft PowerPoint,Microsoft Works,OpenOffice Impress,odp,ppt,pptx
+-libreoffice-math.desktop
+LibreOffice Math
+Cree y edite fórmulas científicas y ecuaciones con Math.
+libreoffice-math
+
+8
+Editor de fórmulas
+libreoffice --math %U
+2
+0
+
+
+Office;Math
+Equation,OpenDocument Formula,Formula,odf,MathML
+-libreoffice-writer.desktop
+LibreOffice Writer
+Cree y edite texto e imágenes en cartas, informes, documentos y páginas Web con Writer.
+libreoffice-writer
+
+8
+Procesador de texto
+libreoffice --writer %U
+2
+0
+
+
+Office;WordProcessor
+Text,Letter,Fax,Document,OpenDocument Text,Microsoft Word,Microsoft Works,Lotus WordPro,OpenOffice Writer,CV,odt,doc,docx,rtf
+-qpdfview.desktop
+qpdfview
+A tabbed document viewer using Qt and the Poppler library.
+qpdfview
+
+8
+tabbed document viewer
+qpdfview --unique %F
+0
+0
+qpdfview
+
+Viewer;Office
+viewer,document,presentation,pdf,ps,djvu
+
++Other
+Otras
+Aplicaciones que no entran en otras categorías
+applications-other
+lxde-other.directory
+3
+0
+-org.kde.plasma.settings.open.desktop
+Abrir las preferencias del sistema
+
+systemsettings
+
+8
+
+plasma-open-settings %u
+4
+0
+
+
+
+
+-gcr-prompter.desktop
+Access Prompt
+Unlock access to passwords and other secrets
+security-medium
+
+8
+
+/usr/libexec/gcr-prompter
+4
+0
+
+
+
+
+-org.kde.polkit-kde-authentication-agent-1.desktop
+Agente de autenticación de PolicyKit
+Agente de autenticación de PolicyKit
+dialog-password
+
+8
+
+/usr/lib/x86_64-linux-gnu/libexec/polkit-kde-authentication-agent-1
+4
+4
+
+
+
+
+-kcm_filetypes.desktop
+Asociaciones de archivos
+
+preferences-desktop-filetype-association
+
+8
+
+systemsettings kcm_filetypes
+4
+0
+
+
+
+
+-kcm_bluetooth.desktop
+Bluetooth
+Gestión de dispositivos Bluetooth
+preferences-system-bluetooth
+
+8
+
+systemsettings kcm_bluetooth
+4
+0
+
+
+
+
+-org.kde.discover.notifier.desktop
+Discover
+
+system-software-update
+
+8
+
+/usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier
+4
+4
+
+
+
+
+-geoclue-demo-agent.desktop
+Geoclue Demo agent
+
+mark-location-symbolic
+
+8
+Demo geoclue agent
+/usr/libexec/geoclue-2.0/demos/agent
+4
+-3
+
+
+
+geolocation
+-google-maps-geo-handler.desktop
+Google Maps
+
+map-globe
+
+8
+
+kde-geo-uri-handler --coordinate-template "https://www.google.com/maps/@<LAT>,<LON>,<Z>" --query-template "https://www.google.com/maps/search/<Q>" --fallback "https://www.google.com/maps/" %u
+4
+0
+
+
+
+
+-snap-handle-link.desktop
+Handler for snap:// URIs
+Prompt the user to install gnome-software then pass control to it
+
+
+8
+
+/usr/bin/snap handle-link %U
+4
+0
+
+
+
+
+-org.kde.keditfiletype.desktop
+keditfiletype
+
+preferences-desktop-filetype-association
+
+8
+Editor de tipo de archivo
+keditfiletype5
+4
+0
+
+
+
+
+-ktelnetservice5.desktop
+KTelnetService
+
+utilities-terminal
+
+8
+
+ktelnetservice5 %u
+4
+0
+
+
+
+
+-libreoffice-xsltfilter.desktop
+LibreOffice XSLT based filters
+
+
+
+8
+Filtros basados en XSLT
+libreoffice %U
+6
+0
+
+
+
+
+-nm-applet.desktop
+Network
+Manage your network connections
+nm-device-wireless
+
+8
+
+nm-applet
+4
+-7
+
+
+
+
+-openbox.desktop
+Openbox
+
+openbox
+
+8
+
+openbox
+4
+0
+
+
+
+wm,windowmanager,window,manager,gnome
+-openstreetmap-geo-handler.desktop
+OpenStreetMap
+
+map-globe
+
+8
+
+kde-geo-uri-handler --coordinate-template "https://www.openstreetmap.org/#map=<Z>/<LAT>/<LON>" --query-template "https://www.openstreetmap.org/search?query=<Q>" --fallback "https://www.openstreetmap.org" %u
+4
+0
+
+
+
+
+-kcm_trash.desktop
+Papelera
+
+user-trash
+
+8
+
+kcmshell5 kcm_trash
+4
+0
+
+
+
+
+-org.freedesktop.impl.portal.desktop.kde.desktop
+Portal
+
+kde
+
+8
+
+/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde
+4
+0
+
+
+
+
+-qwant-maps-geo-handler.desktop
+Qwant Maps
+
+map-globe
+
+8
+
+kde-geo-uri-handler --coordinate-template "https://www.qwant.com/maps/#map=<Z>/<LAT>/<LON>" --query-template "https://www.qwant.com/maps/?q=<Q>&client=opensearch" --fallback "https://www.qwant.com/maps/" %u
+4
+0
+
+
+
+
+-org.kde.kwalletd5.desktop
+Servicio de carteras de KDE
+
+kwalletmanager
+
+8
+
+kwalletd5
+4
+0
+
+
+
+
+-io.snapcraft.SessionAgent.desktop
+Snapd User Session Agent
+
+/usr/share/snapd/snapcraft-logo-bird.svg
+
+8
+
+/bin/false
+4
+0
+
+
+
+
+-gcr-viewer.desktop
+View file
+
+
+
+8
+
+/usr/bin/gcr-viewer
+4
+0
+
+
+
+
+-wheelmap-geo-handler.desktop
+wheelmap.org
+
+map-globe
+
+8
+
+kde-geo-uri-handler --coordinate-template "https://wheelmap.org/?lat=<LAT>&lon=<LON>" --query-template "https://wheelmap.org/search?q=<Q>" --fallback "https://wheelmap.org" %u
+4
+0
+
+
+
+
+
++Development
+Programación
+Herramientas para el desarrollo del software
+applications-development
+lxde-development.directory
+3
+0
+-python3.10.desktop
+Python (v3.10)
+Python Interpreter (v3.10)
+/usr/share/pixmaps/python3.10.xpm
+
+8
+
+/usr/bin/python3.10
+7
+0
+
+
+Development
+
+
++Multimedia
+Sonido y vídeo
+Menú multimedia
+applications-multimedia
+lxde-audio-video.directory
+3
+0
+-pavucontrol-qt.desktop
+Control de volumen de PulseAudio
+Ajustar el nivel del volumen
+multimedia-volume-control
+
+8
+Control de volumen
+pavucontrol-qt
+2
+0
+
+
+AudioVideo;Audio;Mixer;Qt
+
+-vlc.desktop
+Reproductor multimedia VLC
+Lea, capture y emita sus contenidos multimedia
+vlc
+
+8
+Reproductor multimedia
+/usr/bin/vlc --started-from-file %U
+0
+0
+/usr/bin/vlc
+
+AudioVideo;Player;Recorder
+Player,Capture,DVD,Audio,Video,Server,Broadcast
+
+-
++DesktopSettings
+Preferencias
+Preferencias personales
+preferences-desktop
+lxde-settings.directory
+3
+0
++LXQtSettings
+Configuración de LXQt
+
+preferences-system
+lxqt-settings.directory
+3
+0
+-lxqt-config.desktop
+Centro de configuración de LXQt
+Configure su sistema
+preferences-system
+
+8
+Configuración del sistema
+lxqt-config
+0
+64
+
+
+Settings;DesktopSettings;Qt;LXQt
+
+-
+-lxqt-config-file-associations.desktop
+Asociaciones de archivo
+Configura las aplicaciones asociadas con tipos de archivo conocidos
+preferences-desktop-filetype-association
+
+8
+Configuración de las asociaciones de archivo
+lxqt-config-file-associations
+0
+64
+
+
+Settings;DesktopSettings;Qt;LXQt
+
+-lxqt-config-appearance.desktop
+Aspecto
+Configuración del aspecto de LXQt
+preferences-desktop-theme
+
+8
+Configuración del aspecto
+lxqt-config-appearance
+0
+64
+
+
+Settings;DesktopSettings;Qt;LXQt
+
+-lxqt-config-globalkeyshortcuts.desktop
+Atajos de teclado
+Configurar los atajos de teclado en LXQt
+preferences-desktop-keyboard
+
+8
+Configuración de los atajos de teclado
+lxqt-config-globalkeyshortcuts
+0
+64
+
+
+Settings;DesktopSettings;Qt;LXQt
+
+-lxqt-config-brightness.desktop
+Brillo
+Configuración del brillo
+brightnesssettings
+
+8
+Configuración del brillo
+lxqt-config-brightness
+0
+64
+
+
+Settings;DesktopSettings;Qt;LXQt;HardwareSettings
+
+-lxqt-config-session.desktop
+Configuración de la sesión
+Configuración de sesiones de LXQt
+preferences-system-session-services
+
+8
+Configuración de la sesión de LXQt
+lxqt-config-session
+0
+64
+
+
+Settings;DesktopSettings;Qt;LXQt
+
+-obconf-qt.desktop
+Configuración de Openbox
+Configurar el gestor de ventanas Openbox
+obconf-qt
+
+8
+Configuración del gestor de ventanas
+obconf-qt
+2
+0
+
+
+Qt;Settings;DesktopSettings
+
+-lxqt-config-monitor.desktop
+Configuración del monitor
+Configuración de los monitores
+preferences-desktop-display
+
+8
+Configuración del monitor
+lxqt-config-monitor
+0
+64
+
+
+Settings;DesktopSettings;Qt;LXQt;HardwareSettings
+
+-lxqt-config-locale.desktop
+Configuración regional
+Configuración regional de LXQt
+preferences-desktop-locale
+
+8
+Configuración regional
+lxqt-config-locale
+0
+64
+
+
+Settings;DesktopSettings;Qt;LXQt
+
+-compton-conf.desktop
+Efectos de ventana
+Configura los efectos de ventana de Compton
+compton
+
+8
+Configuración de Compton
+compton-conf
+0
+0
+compton-conf
+
+Settings;DesktopSettings;Qt;LXQt;X-XFCE-SettingsDialog;X-XFCE-PersonalSettings
+
+-pcmanfm-qt-desktop-pref.desktop
+Escritorio
+Cambiar el fondo de pantalla y el comportamiento del escritorio
+user-desktop
+
+8
+Configuración del escritorio
+pcmanfm-qt --desktop-pref=general
+2
+0
+
+
+Settings;Qt;DesktopSettings
+
+-lxqt-admin-time.desktop
+Fecha y hora
+Configurar la fecha y hora del sistema
+preferences-system-time
+
+8
+Configuración de la fecha y hora
+lxqt-admin-time
+0
+64
+
+
+LXQt;Settings;DesktopSettings;Qt
+
+-lxqt-config-powermanagement.desktop
+Gestión de energía
+Configuraciones varias relacionadas con la gestión de energía, como la batería o el monitor de inactividad
+preferences-system-power-management
+
+8
+Configuración de la gestión de energía
+lxqt-config-powermanagement
+0
+64
+
+
+Settings;DesktopSettings;Qt;LXQt
+
+-lxqt-config-notificationd.desktop
+Notificaciones del escritorio
+Configurar las notificaciones del escritorio
+preferences-desktop-notification
+
+8
+Configuración de las notificaciones de LXQt
+lxqt-config-notificationd
+0
+64
+
+
+Settings;DesktopSettings;Qt;LXQt
+
+-lxqt-config-input.desktop
+Teclado y ratón
+Configure el teclado, ratón y otros dispositivos de entrada
+preferences-desktop-peripherals
+
+8
+Configuración de dispositivos de entrada
+lxqt-config-input
+0
+64
+
+
+Qt;Settings;HardwareSettings;DesktopSettings;LXQt
+
+-lxqt-admin-user.desktop
+Usuarios y grupos
+Configurar los usuarios y grupos del sistema
+system-users
+
+8
+Configuración de usuarios y grupos
+lxqt-admin-user
+0
+64
+
+
+LXQt;Settings;DesktopSettings;Qt
+
+
+-software-properties-drivers-lxqt.desktop
+Additional Drivers
+Configure third-party and proprietary drivers
+jockey
+
+8
+Additional Drivers
+lxqt-sudo /usr/bin/software-properties-qt --open-tab=4
+0
+64
+
+
+Settings;HardwareSettings;System
+Drivers
+-nm-connection-editor.desktop
+Advanced Network Configuration
+Manage and change your network connection settings
+preferences-system-network
+
+8
+
+nm-connection-editor
+2
+0
+
+
+GNOME;GTK;Settings;X-GNOME-NetworkSettings;X-GNOME-Utilities
+
+-upg-apply.desktop
+Apply Full Upgrade
+Search and Apply Full Upgrade
+system-software-update
+
+8
+Apply Full Upgrade
+lxqt-sudo /usr/bin/lubuntu-upgrader --cache-update --full-upgrade
+0
+0
+
+
+System;Settings
+upgrade,update
+-org.debian.galternatives.desktop
+Configurador de alternativas
+Configurar las alternativas por defecto del sistema
+galternatives
+
+8
+
+/usr/bin/galternatives
+2
+0
+
+
+Settings;GTK;System
+Alternatives,GAlternatives,Debian
+-obconf.desktop
+Gestor de configuración de Openbox
+Configura i personaliza el gestor de ventanas Openbox
+obconf
+
+8
+Configuration Manager
+obconf %f
+2
+0
+
+
+Settings;DesktopSettings;GTK
+openbox,settings,configurations,themes
+-system-config-printer.desktop
+Printers
+Configure printers
+printer
+
+8
+Printers
+system-config-printer
+2
+-7
+
+
+GNOME;GTK;Settings;HardwareSettings;X-GNOME-Settings-Panel;X-Unity-Settings-Panel;System;Printing
+Printer,Queue,Print,Paper,Ink,Toner
+-xscreensaver-properties.desktop
+Salvapantallas
+Change screensaver properties
+xscreensaver
+
+8
+
+xscreensaver-demo
+0
+0
+
+
+Settings;DesktopSettings;Security;X-XFCE
+
+-software-properties-lxqt.desktop
+Software Sources
+Configure the sources for installable software and updates
+applications-other
+
+8
+Software Sources
+lxqt-sudo software-properties-qt
+0
+64
+
+
+System;Settings
+
+-software-properties-qt.desktop
+Software Sources
+Configure the sources for installable software and updates
+applications-other
+
+8
+Software Sources
+software-properties-qt
+4
+0
+
+
+System;Settings
+
+
+-lxqt-about.desktop
+Acerca de LXQt
+Saber más acerca LXQt
+help-about
+
+8
+Acerca de LXQt
+lxqt-about
+0
+64
+
+
+System;Documentation
+
+-
++X-Leave
+Salir
+
+system-shutdown
+lxqt-leave.directory
+3
+0
+-lxqt-shutdown.desktop
+Apagar
+Apagar el sistema
+system-shutdown
+
+8
+Apagar el sistema
+lxqt-leave --shutdown
+0
+64
+
+
+System;X-Leave
+
+-lxqt-logout.desktop
+Cerrar la sesión
+Cerrar la sesión actual
+system-log-out
+
+8
+Cerrar la sesión actual
+lxqt-leave --logout
+0
+64
+
+
+System;X-Leave
+
+-lxqt-hibernate.desktop
+Hibernar
+Hibernar el sistema
+system-suspend-hibernate
+
+8
+Hibernar
+lxqt-leave --hibernate
+0
+64
+
+
+System;X-Leave
+
+-lxqt-reboot.desktop
+Reiniciar
+Reiniciar el sistema
+system-reboot
+
+8
+Reiniciar el sistema
+lxqt-leave --reboot
+0
+64
+
+
+System;X-Leave
+
+-lxqt-leave.desktop
+Salir
+Diálogo para salir del sistema
+system-shutdown
+
+8
+Diálogo para salir del sistema
+lxqt-leave
+0
+64
+
+
+System;X-Leave
+
+-lxqt-suspend.desktop
+Suspender
+Suspender el sistema
+system-suspend
+
+8
+Suspender el sistema
+lxqt-leave --suspend
+0
+64
+
+
+System;X-Leave
+
+
+-lxqt-lockscreen.desktop
+Bloquear la pantalla
+Bloquear la sesión actual
+system-lock-screen
+
+8
+Bloquear la sesión actual
+lxqt-leave --lockscreen
+0
+64
+
+
+System;Screensaver
+
+

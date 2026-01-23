@@ -1,0 +1,26 @@
+[2025-11-27-11-39-36-955]
+Actions=@Invalid()
+Application=lxqt-powermanagement
+Body=LXQt no pudo encontrar datos sobre ninguna bater\xed\x61 - monitoreo deshabilitado
+Hints=@Variant(\0\0\0\b\0\0\0\0)
+Icon=lxqt-powermanagement
+Summary=\xa1Sin bater\xed\x61!
+TimeOut=10000
+
+[2025-11-27-11-39-36-974]
+Actions=0, Configurar...
+Application=lxqt-powermanagement
+Body="Est\xe1 ejecutando Gesti\xf3n de energ\xed\x61 de LXQt por primera vez.<br/>Puede configurarlo desde ajustes... "
+Hints=@Variant(\0\0\0\b\0\0\0\0)
+Icon=
+Summary=Gesti\xf3n de energ\xed\x61
+TimeOut=10000
+
+[2025-11-27-11-52-26-960]
+Actions=@Invalid()
+Application=lxqt-config-monitor
+Body=
+Hints=@Variant(\0\0\0\b\0\0\0\0)
+Icon=
+Summary="Se ha aplicado la configuraci\xf3n predeterminada del monitor. Si desea cambiar la configuraci\xf3n de los monitores, utilice lxqt-config-monitor."
+TimeOut=10000

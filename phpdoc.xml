@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<phpdocumentor>
+    <title>Documentación del Proyecto</title>
+
+    <paths>
+        <directory>src</directory>
+    </paths>
+
+    <versions>
+        <version number="1.0.0">
+            <api>
+                <default-package-name>alfgba/documentacion</default-package-name>
+            </api>
+        </version>
+    </versions>
+</phpdocumentor>

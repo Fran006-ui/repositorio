@@ -1,0 +1,2253 @@
+Xsession: X session started for alfgba at jue 27 nov 2025 11:39:22 UTC
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/alfgba/.Xauthority
+localuser:alfgba being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-Lubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting DESKTOP_SESSION=Lubuntu
+dbus-update-activation-environment: setting PWD=/home/alfgba
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting LOGNAME=alfgba
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/alfgba/.Xauthority
+dbus-update-activation-environment: setting HOME=/home/alfgba
+dbus-update-activation-environment: setting LANG=es_ES.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=alfgba
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+isPrimaryInstance
+New PolkitAgentListener  0x56239f0d2c00
+Adding new listener  PolkitQt1::Agent::Listener(0x7ffdb73cb290) for  0x56239f0d2c00
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+no cached wallpaper. generate a new one!
+qt.gui.icc: fromIccProfile: failed minimal tag size sanity
+QPngHandler: Failed to parse ICC profile
+XdgDesktopFile "/usr/share/applications/firefox.desktop" is not valid
+size of original image QSize(1920, 1280)
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+systemd: "CanHibernate" = "no"
+** Dbus error **************************
+Error name  "org.freedesktop.DBus.Error.InvalidArgs"
+Error msg   "No such interface “org.freedesktop.DBus.Properties”"
+****************************************
+dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+systemd: "CanSuspend" = "yes"
+systemd: "CanReboot" = "yes"
+systemd: "CanPowerOff" = "yes"
+wallpaper cached saved to  "/home/alfgba/.cache/pcmanfm-qt/lxqt/wallpaper.cache"
+WinIdChange 1000008 handle QWidgetWindow(0x561464921040, name="LXQtPanel panel1Window") QScreen(0x56146467d720, name="Virtual1")
+Systray started
+()
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+BatteryChanged discharging: true chargeLevel: nan actionTime: QTime(Invalid)
+Inhibit got: 24
+"PowerButton" "" ""
+"SuspendButton" "" ""
+"HibenateButton" "" ""
+Starting idlenesswatcher
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+[Notice] Started
+Leyendo lista de paquetes... 0%Leyendo lista de paquetes... 100%Leyendo lista de paquetes... Hecho
+Creando árbol de dependencias... 0%Creando árbol de dependencias... 0%Creando árbol de dependencias... 50%Creando árbol de dependencias... 50%Creando árbol de dependencias... Hecho
+Leyendo la información de estado... 0%Leyendo la información de estado... 0%Leyendo la información de estado... Hecho
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Status:Resolving dependencies status-resolving-dep
+
+Status:Waiting for service to start status-setting-up
+
+Status:Waiting for authentication status-authenticating
+
+Status:Waiting status-waiting
+
+Status:Running task status-running
+
+Status:Cleaning up status-cleaning-up
+
+Status:Applying changes status-committing
+
+Status:Resolving dependencies status-resolving-dep
+
+Status:Loading software list status-loading-cache
+
+Status:Resolving dependencies status-resolving-dep
+
+Status:Waiting for service to start status-setting-up
+
+Status:Waiting for authentication status-authenticating
+
+Status:Loading software list status-loading-cache
+
+Status:Finished status-finished
+
+Status:Waiting status-waiting
+
+Status:Running task status-running
+
+Status:Loading software list status-loading-cache
+
+Status:Resolving dependencies status-resolving-dep
+
+Status:Downloading status-downloading
+
+Status:Finished status-finished
+
+Status Details:Downloading libapt-pkg6.0
+Status Details:Downloading apt
+Status Details:Downloading apt-utils
+Status Details:Downloading libseccomp2
+Status Details:Downloading libdevmapper1.02.1
+Status Details:Downloading dmsetup
+Status Details:Downloading liblvm2cmd2.03
+Status Details:Downloading dmeventd
+Status Details:Downloading lvm2
+Status Details:Downloading libopeniscsiusr
+Status Details:Downloading open-iscsi
+Status Details:Downloading libcryptsetup12
+Status Details:Downloading libglib2.0-data
+Status Details:Downloading libglib2.0-bin
+Status Details:Downloading libglib2.0-0
+Status Details:Downloading ubuntu-pro-client
+Status Details:Downloading ubuntu-advantage-tools
+Status Details:Downloading dmidecode
+Status Details:Downloading pci.ids
+Status Details:Downloading powermgmt-base
+Status Details:Downloading python3-update-manager
+Status Details:Downloading initramfs-tools-core
+Status Details:Downloading initramfs-tools-bin
+Status Details:Downloading linux-base
+Status Details:Downloading cryptsetup-initramfs
+Status Details:Downloading cryptsetup-bin
+Status Details:Downloading cryptsetup
+Status Details:Downloading ethtool
+Status Details:Downloading libpackagekit-glib2-18
+Status Details:Downloading gir1.2-packagekitglib-1.0
+Status Details:Downloading landscape-common
+Status Details:Downloading libldap-2.5-0
+Status Details:Downloading libmbim-glib4
+Status Details:Downloading modemmanager
+Status Details:Downloading needrestart
+Status Details:Downloading packagekit
+Status Details:Downloading snapd
+Status Details:Downloading sosreport
+Status Details:Downloading xfsprogs
+Status Details:Downloading cloud-init
+Status Details:Downloading ubuntu-server-minimal
+Status:Applying changes status-committing
+
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+Status Details:Running post-installation trigger dpkg-exec
+Status Details:Preparing installation of libapt-pkg6.0
+Status Details:Unpacking libapt-pkg6.0
+Status Details:Installing libapt-pkg6.0
+Status Details:Running post-installation trigger dpkg-exec
+Status Details:Preparing configuration of libapt-pkg6.0
+Status Details:Configuring libapt-pkg6.0
+Status Details:Installed libapt-pkg6.0
+Status Details:Running post-installation trigger dpkg-exec
+Status Details:Preparing installation of apt
+Status Details:Unpacking apt
+Status Details:Installing apt
+Status Details:Running post-installation trigger dpkg-exec
+Status Details:Preparing configuration of apt
+Status Details:Configuring apt
+Status Details:Installed apt
+Status Details:Running post-installation trigger dpkg-exec
+Status Details:Preparing installation of apt-utils
+Status Details:Unpacking apt-utils
+Status Details:Installing apt-utils
+Status Details:Preparing installation of libseccomp2
+Status Details:Unpacking libseccomp2
+Status Details:Installing libseccomp2
+Status Details:Running post-installation trigger dpkg-exec
+Status Details:Preparing configuration of libseccomp2
+Status Details:Configuring libseccomp2
+Status Details:Installed libseccomp2
+Status Details:Running post-installation trigger dpkg-exec
+Status Details:Preparing installation of libdevmapper1.02.1
+Status Details:Unpacking libdevmapper1.02.1
+Status Details:Installing libdevmapper1.02.1
+Status Details:Preparing installation of libdevmapper-event1.02.1
+Status Details:Unpacking libdevmapper-event1.02.1
+Status Details:Installing libdevmapper-event1.02.1
+Status Details:Preparing installation of dmsetup
+Status Details:Unpacking dmsetup
+Status Details:Installing dmsetup
+Status Details:Preparing installation of liblvm2cmd2.03
+Status Details:Unpacking liblvm2cmd2.03
+Status Details:Installing liblvm2cmd2.03
+Status Details:Preparing installation of dmeventd
+Status Details:Unpacking dmeventd
+Status Details:Installing dmeventd
+Status Details:Preparing installation of lvm2
+Status Details:Unpacking lvm2
+Status Details:Installing lvm2
+Status Details:Preparing installation of libopeniscsiusr
+Status Details:Unpacking libopeniscsiusr
+Status Details:Installing libopeniscsiusr
+Status Details:Preparing installation of open-iscsi
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+Status Details:Unpacking open-iscsi
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+Status Details:Installing open-iscsi
+Status Details:Preparing installation of distro-info-data
+Status Details:Unpacking distro-info-data
+Status Details:Installing distro-info-data
+Status Details:Preparing installation of libcryptsetup12
+Status Details:Unpacking libcryptsetup12
+Status Details:Installing libcryptsetup12
+Status Details:Preparing installation of libglib2.0-data
+Status Details:Unpacking libglib2.0-data
+Status Details:Installing libglib2.0-data
+Status Details:Preparing installation of libglib2.0-bin
+Status Details:Unpacking libglib2.0-bin
+Status Details:Installing libglib2.0-bin
+Status Details:Preparing installation of libglib2.0-0
+Status Details:Unpacking libglib2.0-0
+Status Details:Installing libglib2.0-0
+Status Details:Preparing installation of ubuntu-pro-client-l10n
+Status Details:Unpacking ubuntu-pro-client-l10n
+Status Details:Installing ubuntu-pro-client-l10n
+Status Details:Preparing installation of ubuntu-pro-client
+Status Details:Unpacking ubuntu-pro-client
+Status Details:Installing ubuntu-pro-client
+Status Details:Preparing installation of ubuntu-advantage-tools
+Status Details:Unpacking ubuntu-advantage-tools
+Status Details:Installing ubuntu-advantage-tools
+Status Details:Preparing installation of ubuntu-minimal
+Status Details:Unpacking ubuntu-minimal
+Status Details:Installing ubuntu-minimal
+Status Details:Preparing installation of dmidecode
+Status Details:Unpacking dmidecode
+Status Details:Installing dmidecode
+Status Details:Preparing installation of libpcap0.8
+Status Details:Unpacking libpcap0.8
+Status Details:Installing libpcap0.8
+Status Details:Preparing installation of pci.ids
+Status Details:Unpacking pci.ids
+Status Details:Installing pci.ids
+Status Details:Preparing installation of powermgmt-base
+Status Details:Unpacking powermgmt-base
+Status Details:Installing powermgmt-base
+Status Details:Preparing installation of python3-update-manager
+Status Details:Unpacking python3-update-manager
+Status Details:Installing python3-update-manager
+Status Details:Preparing installation of update-manager-core
+Status Details:Unpacking update-manager-core
+Status Details:Installing update-manager-core
+Status Details:Preparing installation of ubuntu-standard
+Status Details:Unpacking ubuntu-standard
+Status Details:Installing ubuntu-standard
+Status Details:Preparing installation of initramfs-tools
+Status Details:Unpacking initramfs-tools
+Status Details:Installing initramfs-tools
+Status Details:Preparing installation of initramfs-tools-core
+Status Details:Unpacking initramfs-tools-core
+Status Details:Installing initramfs-tools-core
+Status Details:Preparing installation of initramfs-tools-bin
+Status Details:Unpacking initramfs-tools-bin
+Status Details:Installing initramfs-tools-bin
+Status Details:Preparing installation of linux-base
+Status Details:Unpacking linux-base
+Status Details:Installing linux-base
+Status Details:Preparing installation of cryptsetup-initramfs
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+Status Details:Unpacking cryptsetup-initramfs
+Status Details:Installing cryptsetup-initramfs
+Status Details:Preparing installation of cryptsetup-bin
+Status Details:Unpacking cryptsetup-bin
+Status Details:Installing cryptsetup-bin
+Status Details:Preparing installation of cryptsetup
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+Status Details:Unpacking cryptsetup
+Status Details:Installing cryptsetup
+Status Details:Preparing installation of ethtool
+Status Details:Unpacking ethtool
+Status Details:Installing ethtool
+Status Details:Preparing installation of libpackagekit-glib2-18
+Status Details:Unpacking libpackagekit-glib2-18
+Status Details:Installing libpackagekit-glib2-18
+Status Details:Preparing installation of gir1.2-packagekitglib-1.0
+Status Details:Unpacking gir1.2-packagekitglib-1.0
+Status Details:Installing gir1.2-packagekitglib-1.0
+Status Details:Preparing installation of landscape-common
+Status Details:Unpacking landscape-common
+Status Details:Installing landscape-common
+Status Details:Preparing installation of libldap-2.5-0
+Status Details:Unpacking libldap-2.5-0
+Status Details:Installing libldap-2.5-0
+Status Details:Preparing installation of libldap-common
+Status Details:Unpacking libldap-common
+Status Details:Installing libldap-common
+Status Details:Preparing installation of libmbim-proxy
+Status Details:Unpacking libmbim-proxy
+Status Details:Installing libmbim-proxy
+Status Details:Preparing installation of libmbim-glib4
+Status Details:Unpacking libmbim-glib4
+Status Details:Installing libmbim-glib4
+Status Details:Preparing installation of libmm-glib0
+Status Details:Unpacking libmm-glib0
+Status Details:Installing libmm-glib0
+Status Details:Preparing installation of modemmanager
+Status Details:Unpacking modemmanager
+Status Details:Installing modemmanager
+Status Details:Preparing installation of needrestart
+Status Details:Unpacking needrestart
+Status Details:Installing needrestart
+Status Details:Preparing installation of packagekit-tools
+Status Details:Unpacking packagekit-tools
+Status Details:Installing packagekit-tools
+Status Details:Preparing installation of packagekit
+Status Details:Unpacking packagekit
+Status Details:Installing packagekit
+Status Details:Preparing installation of pollinate
+Status Details:Unpacking pollinate
+Status Details:Installing pollinate
+Status Details:Preparing installation of python3-packaging
+Status Details:Unpacking python3-packaging
+Status Details:Installing python3-packaging
+Status Details:Preparing installation of snapd
+Status Details:Unpacking snapd
+Status Details:Installing snapd
+Status Details:Preparing installation of sosreport
+Status Details:Unpacking sosreport
+Status Details:Installing sosreport
+Status Details:Preparing installation of systemd-hwe-hwdb
+Status Details:Unpacking systemd-hwe-hwdb
+Status Details:Installing systemd-hwe-hwdb
+Status Details:Preparing installation of xfsprogs
+Status Details:Unpacking xfsprogs
+Status Details:Installing xfsprogs
+Status Details:Preparing installation of ubuntu-server
+Status Details:Unpacking ubuntu-server
+Status Details:Installing ubuntu-server
+Status Details:Preparing installation of cloud-init
+Status Details:Unpacking cloud-init
+Status Details:Installing cloud-init
+Status Details:Preparing installation of ubuntu-server-minimal
+Status Details:Unpacking ubuntu-server-minimal
+Status Details:Installing ubuntu-server-minimal
+Status Details:Running post-installation trigger dpkg-exec
+Status Details:Preparing configuration of powermgmt-base
+Status Details:Configuring powermgmt-base
+Status Details:Installed powermgmt-base
+Status Details:Preparing configuration of snapd
+Status Details:Configuring snapd
+kf.solid.backends.udisks2: Error getting props: "org.freedesktop.DBus.Error.InvalidArgs" "No such interface “org.freedesktop.UDisks2.Filesystem”"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+lxqt-session: "Session 'session': display device '/dev/dri/renderD128'"
+[load.applyBestSettings()] Finished
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Se ha aplicado la configuración predeterminada del monitor. Si desea cambiar la configuración de los monitores, utilice lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+kf.solid.backends.udisks2: Error getting props: "org.freedesktop.DBus.Error.InvalidArgs" "No such interface “org.freedesktop.UDisks2.Filesystem”"
+kf.solid.backends.udisks2: Error getting props: "org.freedesktop.DBus.Error.InvalidArgs" "No such interface “org.freedesktop.UDisks2.Filesystem”"
+Status Details:Installed snapd
+Status Details:Preparing configuration of needrestart
+Status Details:Configuring needrestart
+Status Details:Installed needrestart
+Status Details:Preparing configuration of pci.ids
+Status Details:Configuring pci.ids
+Status Details:Installed pci.ids
+Status Details:Preparing configuration of cloud-init
+Status Details:Configuring cloud-init
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+Status Details:Installed cloud-init
+Status Details:Preparing configuration of apt-utils
+Status Details:Configuring apt-utils
+Status Details:Installed apt-utils
+Status Details:Preparing configuration of linux-base
+Status Details:Configuring linux-base
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+Status Details:Installed linux-base
+Status Details:Preparing configuration of libglib2.0-0
+Status Details:Configuring libglib2.0-0
+Status Details:Installed libglib2.0-0
+Status Details:Preparing configuration of distro-info-data
+Status Details:Configuring distro-info-data
+Status Details:Installed distro-info-data
+Status Details:Preparing configuration of libpackagekit-glib2-18
+Status Details:Configuring libpackagekit-glib2-18
+Status Details:Installed libpackagekit-glib2-18
+Status Details:Preparing configuration of landscape-common
+Status Details:Configuring landscape-common
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+Status Details:Installed landscape-common
+Status Details:Preparing configuration of libldap-common
+Status Details:Configuring libldap-common
+Status Details:Installed libldap-common
+Status Details:Preparing configuration of libldap-2.5-0
+Status Details:Configuring libldap-2.5-0
+Status Details:Installed libldap-2.5-0
+Status Details:Preparing configuration of libopeniscsiusr
+Status Details:Configuring libopeniscsiusr
+Status Details:Installed libopeniscsiusr
+Status Details:Preparing configuration of gir1.2-packagekitglib-1.0
+Status Details:Configuring gir1.2-packagekitglib-1.0
+Status Details:Installed gir1.2-packagekitglib-1.0
+Status Details:Preparing configuration of libglib2.0-data
+Status Details:Configuring libglib2.0-data
+Status Details:Installed libglib2.0-data
+Status Details:Preparing configuration of python3-packaging
+Status Details:Configuring python3-packaging
+Status Details:Installed python3-packaging
+Status Details:Preparing configuration of pollinate
+Status Details:Configuring pollinate
+Status Details:Installed pollinate
+Status Details:Preparing configuration of libpcap0.8
+Status Details:Configuring libpcap0.8
+Status Details:Installed libpcap0.8
+Status Details:Preparing configuration of sosreport
+Status Details:Configuring sosreport
+Status Details:Installed sosreport
+Status Details:Preparing configuration of systemd-hwe-hwdb
+Status Details:Configuring systemd-hwe-hwdb
+Status Details:Installed systemd-hwe-hwdb
+Status Details:Preparing configuration of libdevmapper1.02.1
+Status Details:Configuring libdevmapper1.02.1
+Status Details:Installed libdevmapper1.02.1
+Status Details:Preparing configuration of dmsetup
+Status Details:Configuring dmsetup
+Status Details:Installed dmsetup
+Status Details:Preparing configuration of libmm-glib0
+Status Details:Configuring libmm-glib0
+Status Details:Installed libmm-glib0
+Status Details:Preparing configuration of python3-update-manager
+Status Details:Configuring python3-update-manager
+Status Details:Installed python3-update-manager
+Status Details:Preparing configuration of libcryptsetup12
+Status Details:Configuring libcryptsetup12
+Status Details:Installed libcryptsetup12
+Status Details:Preparing configuration of dmidecode
+Status Details:Configuring dmidecode
+Status Details:Installed dmidecode
+Status Details:Preparing configuration of ubuntu-pro-client
+Status Details:Configuring ubuntu-pro-client
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+Status Details:Installed ubuntu-pro-client
+Status Details:Preparing configuration of libmbim-glib4
+Status Details:Configuring libmbim-glib4
+Status Details:Installed libmbim-glib4
+Status Details:Preparing configuration of ethtool
+Status Details:Configuring ethtool
+Status Details:Installed ethtool
+Status Details:Preparing configuration of initramfs-tools-bin
+Status Details:Configuring initramfs-tools-bin
+Status Details:Installed initramfs-tools-bin
+Status Details:Preparing configuration of cryptsetup-bin
+Status Details:Configuring cryptsetup-bin
+Status Details:Installed cryptsetup-bin
+Status Details:Preparing configuration of ubuntu-pro-client-l10n
+Status Details:Configuring ubuntu-pro-client-l10n
+Status Details:Installed ubuntu-pro-client-l10n
+Status Details:Preparing configuration of libdevmapper-event1.02.1
+Status Details:Configuring libdevmapper-event1.02.1
+Status Details:Installed libdevmapper-event1.02.1
+Status Details:Preparing configuration of cryptsetup
+Status Details:Configuring cryptsetup
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+Status Details:Installed cryptsetup
+Status Details:Preparing configuration of libglib2.0-bin
+Status Details:Configuring libglib2.0-bin
+Status Details:Installed libglib2.0-bin
+Status Details:Preparing configuration of libmbim-proxy
+Status Details:Configuring libmbim-proxy
+Status Details:Installed libmbim-proxy
+Status Details:Preparing configuration of ubuntu-standard
+Status Details:Configuring ubuntu-standard
+Status Details:Installed ubuntu-standard
+Status Details:Preparing configuration of open-iscsi
+Status Details:Configuring open-iscsi
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+Status Details:Installed open-iscsi
+Status Details:Preparing configuration of xfsprogs
+Status Details:Configuring xfsprogs
+Status Details:Installed xfsprogs
+Status Details:Preparing configuration of packagekit
+Status Details:Configuring packagekit
+Status Details:Installed packagekit
+Status Details:Preparing configuration of ubuntu-advantage-tools
+Status Details:Configuring ubuntu-advantage-tools
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+Status Details:Installed ubuntu-advantage-tools
+Status Details:Preparing configuration of modemmanager
+Status Details:Configuring modemmanager
+Status Details:Installed modemmanager
+Status Details:Preparing configuration of initramfs-tools-core
+Status Details:Configuring initramfs-tools-core
+Status Details:Installed initramfs-tools-core
+Status Details:Preparing configuration of packagekit-tools
+Status Details:Configuring packagekit-tools
+Status Details:Installed packagekit-tools
+Status Details:Preparing configuration of initramfs-tools
+Status Details:Configuring initramfs-tools
+Status Details:Installed initramfs-tools
+Status Details:Preparing configuration of ubuntu-minimal
+Status Details:Configuring ubuntu-minimal
+Status Details:Installed ubuntu-minimal
+Status Details:Preparing configuration of update-manager-core
+Status Details:Configuring update-manager-core
+Status Details:Installed update-manager-core
+Status Details:Preparing configuration of cryptsetup-initramfs
+Status Details:Configuring cryptsetup-initramfs
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+Status Details:Installed cryptsetup-initramfs
+Status Details:Preparing configuration of liblvm2cmd2.03
+Status Details:Configuring liblvm2cmd2.03
+Status Details:Installed liblvm2cmd2.03
+Status Details:Preparing configuration of dmeventd
+Status Details:Configuring dmeventd
+Status Details:Installed dmeventd
+Status Details:Preparing configuration of lvm2
+Status Details:Configuring lvm2
+Status Details:Installed lvm2
+Status Details:Preparing configuration of ubuntu-server
+Status Details:Configuring ubuntu-server
+Status Details:Installed ubuntu-server
+Status Details:Preparing configuration of ubuntu-server-minimal
+Status Details:Configuring ubuntu-server-minimal
+Status Details:Installed ubuntu-server-minimal
+Status Details:Running post-installation trigger initramfs-tools
+Status Details:Configuring initramfs-tools
+Status Details:Installed initramfs-tools
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Icon theme "breeze" not found.
+Use of uninitialized value $template in exists at /usr/share/perl5/Debconf/Template.pm line 86, <> line 8.
+Use of uninitialized value $item in exists at /usr/share/perl5/Debconf/DbDriver/Cache.pm line 40, <> line 8.
+Use of uninitialized value $item in exists at /usr/share/perl5/Debconf/DbDriver/Cache.pm line 40, <> line 8.
+Status:Finished status-finished
+
+Status:Finished status-finished
+
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+execAction "/usr/share/applications/pcmanfm-qt.desktop"
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+operation finished: 0x55afb09d4f60
+delete MountOperation
+operation finished: 0x0
+delete MountOperation
+'/media/alfgba/VBox_GAs_7.2.0/VBoxLinuxAdditions.run' 
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+chmod: changing permissions of '/media/alfgba/VBox_GAs_7.2.0/VBoxLinuxAdditions.run': Read-only file system
+Please add execution rights on /media/alfgba/VBox_GAs_7.2.0/VBoxLinuxAdditions.run
+/media/alfgba/VBox_GAs_7.2.0/VBoxLinuxAdditions.run: 629: exec: -e: not found
+'/media/alfgba/VBox_GAs_7.2.0/VBoxLinuxAdditions.run' 
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+lxqt-session: "Session 'session', new input device '/dev/input/js1', keyboard setting will be (optionaly) reloaded..."
+lxqt-session: "Session 'session', new input device '/dev/input/mouse2', keyboard setting will be (optionaly) reloaded..."
+lxqt-session: "Session 'session', new input device '/dev/input/event6', keyboard setting will be (optionaly) reloaded..."
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+lxqt-session: "Session 'session', new input device '/dev/input/mouse2', keyboard setting will be (optionaly) reloaded..."
+lxqt-session: "Session 'session', new input device '/dev/input/js1', keyboard setting will be (optionaly) reloaded..."
+lxqt-session: "Session 'session', new input device '/dev/input/event6', keyboard setting will be (optionaly) reloaded..."
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Se ha aplicado la configuración predeterminada del monitor. Si desea cambiar la configuración de los monitores, utilice lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+aboutToQuit
+
+xscreensaver: 11:52:40: SIGTERM
+
+The X11 connection broke: I/O error (code 1)
+XIO:  fatal IO error 2 (No such file or directory) on X server ":0"
+      after 680 requests (329 known processed) with 0 events remaining.
+The X11 connection broke: I/O error (code 1)
+XIO:  fatal IO error 4 (Interrupted system call) on X server ":0"
+      after 4834 requests (4829 known processed) with 0 events remaining.
+Xsession: X session started for alfgba at jue 27 nov 2025 11:53:17 UTC
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/alfgba/.Xauthority
+localuser:alfgba being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-Lubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting DESKTOP_SESSION=Lubuntu
+dbus-update-activation-environment: setting PWD=/home/alfgba
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting LOGNAME=alfgba
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/alfgba/.Xauthority
+dbus-update-activation-environment: setting HOME=/home/alfgba
+dbus-update-activation-environment: setting LANG=es_ES.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=alfgba
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+11:53:17.895263 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+11:53:17.895266 main     Log opened 2025-11-27T11:53:17.894686000Z
+11:53:17.896307 main     OS Product: Linux
+11:53:17.896681 main     OS Release: 5.15.0-161-generic
+11:53:17.897120 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+11:53:17.897780 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+11:53:17.897781 main     Process ID: 1987
+11:53:17.897782 main     Package type: LINUX_64BITS_GENERIC
+11:53:17.899269 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+11:53:17.900051 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+11:53:17.901264 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+11:53:17.903459 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+11:53:17.904088 main      Service: Shared Clipboard
+11:53:17.904585 main      Daemonizing service ...
+11:53:17.907163 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+11:53:17.907165 main     Log opened 2025-11-27T11:53:17.907159000Z
+11:53:17.908698 main     OS Product: Linux
+11:53:17.909793 main     OS Release: 5.15.0-161-generic
+11:53:17.910688 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+11:53:17.911427 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+11:53:17.911428 main     Process ID: 1991
+11:53:17.911429 main     Package type: LINUX_64BITS_GENERIC
+11:53:17.912508 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+11:53:17.913423 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+11:53:17.915608 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+11:53:17.918617 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+11:53:17.919387 main      Service: Seamless Mode Support
+11:53:17.919966 main      Daemonizing service ...
+11:53:17.923709 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+11:53:17.923712 main     Log opened 2025-11-27T11:53:17.923701000Z
+11:53:17.924842 main     OS Product: Linux
+11:53:17.925258 main     OS Release: 5.15.0-161-generic
+11:53:17.925831 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+11:53:17.926872 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+11:53:17.926874 main     Process ID: 1999
+11:53:17.926875 main     Package type: LINUX_64BITS_GENERIC
+11:53:17.928593 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+11:53:17.930114 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+11:53:17.931475 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+11:53:17.933885 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+11:53:17.934591 main      Service: Drag'n'Drop
+11:53:17.935051 main      Daemonizing service ...
+11:53:17.937788 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+11:53:17.937791 main     Log opened 2025-11-27T11:53:17.937780000Z
+11:53:17.939844 main     OS Product: Linux
+11:53:17.940277 main     OS Release: 5.15.0-161-generic
+11:53:17.940749 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+11:53:17.941408 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+11:53:17.941409 main     Process ID: 2007
+11:53:17.941410 main     Package type: LINUX_64BITS_GENERIC
+11:53:17.943113 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+11:53:17.944007 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+11:53:17.945387 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+11:53:17.947902 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+11:53:17.948479 main      Service: VirtualBox host version check
+11:53:17.949138 main      Daemonizing service ...
+11:53:17.952460 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+11:53:17.952463 main     Log opened 2025-11-27T11:53:17.952456000Z
+11:53:17.953479 main     OS Product: Linux
+11:53:17.953820 main     OS Release: 5.15.0-161-generic
+11:53:17.954859 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+11:53:17.955856 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+11:53:17.955857 main     Process ID: 2015
+11:53:17.955858 main     Package type: LINUX_64BITS_GENERIC
+11:53:17.957702 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+11:53:17.959140 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+11:53:17.960418 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+11:53:17.962548 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+11:53:17.963093 main      Service: VMSVGA display assistant
+11:53:17.963637 main      Daemonizing service ...
+11:53:18.723751 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+11:53:18.723753 main     Log opened 2025-11-27T11:53:18.723743000Z
+11:53:18.728319 main     OS Product: Linux
+11:53:18.728735 main     OS Release: 5.15.0-161-generic
+11:53:18.729231 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+11:53:18.729995 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+11:53:18.729996 main     Process ID: 2101
+11:53:18.729997 main     Package type: LINUX_64BITS_GENERIC
+11:53:18.743241 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+11:53:18.745566 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+11:53:18.751026 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+11:53:18.762959 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+11:53:18.764406 main      Service: Shared Clipboard
+11:53:18.767025 main      Daemonizing service ...
+11:53:18.786053 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+11:53:18.786055 main     Log opened 2025-11-27T11:53:18.786044000Z
+11:53:18.787354 main     OS Product: Linux
+11:53:18.787756 main     OS Release: 5.15.0-161-generic
+11:53:18.788235 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+11:53:18.788917 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+11:53:18.788918 main     Process ID: 2106
+11:53:18.788918 main     Package type: LINUX_64BITS_GENERIC
+11:53:18.789961 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+11:53:18.794704 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+11:53:18.803132 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+11:53:18.816448 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+11:53:18.817078 main      Service: Seamless Mode Support
+11:53:18.817598 main      Daemonizing service ...
+New PolkitAgentListener  0x5611b02d5a00
+11:53:18.841883 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+11:53:18.841885 main     Log opened 2025-11-27T11:53:18.841877000Z
+11:53:18.848599 main     OS Product: Linux
+11:53:18.849021 main     OS Release: 5.15.0-161-generic
+Adding new listener  PolkitQt1::Agent::Listener(0x7fffb8a0e680) for  0x5611b02d5a00
+11:53:18.849555 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+11:53:18.853456 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+11:53:18.853458 main     Process ID: 2116
+11:53:18.853459 main     Package type: LINUX_64BITS_GENERIC
+11:53:18.856132 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+11:53:18.862427 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+11:53:18.864088 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+isPrimaryInstance
+11:53:18.902266 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+11:53:18.902895 main      Service: Drag'n'Drop
+11:53:18.903448 main      Daemonizing service ...
+11:53:18.927167 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+11:53:18.927170 main     Log opened 2025-11-27T11:53:18.927162000Z
+11:53:18.928293 main     OS Product: Linux
+11:53:18.928678 main     OS Release: 5.15.0-161-generic
+11:53:18.929119 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+11:53:18.929859 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+11:53:18.929860 main     Process ID: 2124
+11:53:18.929861 main     Package type: LINUX_64BITS_GENERIC
+11:53:18.932052 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+11:53:18.932957 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+11:53:18.940439 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+11:53:18.947668 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+11:53:18.949795 main      Service: VirtualBox host version check
+11:53:18.954005 main      Daemonizing service ...
+11:53:18.976604 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+11:53:18.976807 main     Log opened 2025-11-27T11:53:18.976599000Z
+11:53:18.978308 main     OS Product: Linux
+11:53:18.978738 main     OS Release: 5.15.0-161-generic
+11:53:18.981313 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+11:53:18.985548 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+11:53:18.985550 main     Process ID: 2129
+11:53:18.985551 main     Package type: LINUX_64BITS_GENERIC
+11:53:18.989978 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+11:53:18.993956 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+11:53:18.999890 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+11:53:19.021610 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+11:53:19.022705 main      Service: VMSVGA display assistant
+11:53:19.023956 main      Daemonizing service ...
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+XdgDesktopFile "/usr/share/applications/firefox.desktop" is not valid
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+systemd: "CanHibernate" = "no"
+dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+systemd: "CanSuspend" = "yes"
+systemd: "CanReboot" = "yes"
+systemd: "CanPowerOff" = "yes"
+WinIdChange 1400008 handle QWidgetWindow(0x5628312fb1c0, name="LXQtPanel panel1Window") QScreen(0x562831050720, name="Virtual1")
+Systray started
+()
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Starting idlenesswatcher
+"PowerButton" "" ""
+"SuspendButton" "" ""
+"HibenateButton" "" ""
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+[Notice] Started
+operation finished: 0x0
+delete MountOperation
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+lxqt-session: "Session 'session': display device '/dev/dri/renderD128'"
+lxqt-session: "Session 'session': display device '/dev/dri/card0'"
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+[load.applyBestSettings()] Finished
+lxqt-config-monitor: Applying current settings...
+lxqt-config-monitor: Current settings can not be applied.
+lxqt-config-monitor: Searching in saved settings...
+lxqt-config-monitor: No saved settings has been found
+Output:  "Virtual1"
+lxqt-config-monitor: Extended mode has been applied
+Notification app "lxqt-config-monitor" summary "Se ha aplicado la configuración predeterminada del monitor. Si desea cambiar la configuración de los monitores, utilice lxqt-config-monitor." is already registered but this request is not an update. Broken app?
+[Parent 4229, Main Thread] WARNING: Failed to mkdir /home/alfgba/snap/firefox/7423/.config/ibus/bus: Not a directory: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox_firefox:4229): IBUS-WARNING **: 12:38:03.117: Failed to mkdir /home/alfgba/snap/firefox/7423/.config/ibus/bus: Not a directory
+[Parent 5141, Main Thread] WARNING: Failed to mkdir /home/alfgba/snap/firefox/7423/.config/ibus/bus: Not a directory: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox_firefox:5141): IBUS-WARNING **: 12:43:31.084: Failed to mkdir /home/alfgba/snap/firefox/7423/.config/ibus/bus: Not a directory
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 7963, resource id: 39845894, major code: 18 (ChangeProperty), minor code: 0
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+systemd: "CanPowerOff" = "yes"
+aboutToQuit
+[Notice] Stopped
+
+xscreensaver: 13:06:57: SIGTERM
+
+systemd: "CanPowerOff" = "yes"
+Xsession: X session started for alfgba at vie 28 nov 2025 10:41:25 UTC
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/alfgba/.Xauthority
+localuser:alfgba being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-Lubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting DESKTOP_SESSION=Lubuntu
+dbus-update-activation-environment: setting PWD=/home/alfgba
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting LOGNAME=alfgba
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/alfgba/.Xauthority
+dbus-update-activation-environment: setting HOME=/home/alfgba
+dbus-update-activation-environment: setting LANG=es_ES.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=alfgba
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+10:41:25.915134 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+10:41:25.915138 main     Log opened 2025-11-28T10:41:25.914229000Z
+10:41:25.916244 main     OS Product: Linux
+10:41:25.916596 main     OS Release: 5.15.0-161-generic
+10:41:25.917032 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+10:41:25.917654 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+10:41:25.917654 main     Process ID: 2168
+10:41:25.917655 main     Package type: LINUX_64BITS_GENERIC
+10:41:25.918665 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+10:41:25.919644 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+10:41:25.921291 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+10:41:25.924483 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+10:41:25.925103 main      Service: Shared Clipboard
+10:41:25.925546 main      Daemonizing service ...
+10:41:25.928141 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+10:41:25.928144 main     Log opened 2025-11-28T10:41:25.928137000Z
+10:41:25.929519 main     OS Product: Linux
+10:41:25.930753 main     OS Release: 5.15.0-161-generic
+10:41:25.931201 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+10:41:25.932187 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+10:41:25.932188 main     Process ID: 2172
+10:41:25.932189 main     Package type: LINUX_64BITS_GENERIC
+10:41:25.933160 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+10:41:25.933940 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+10:41:25.935148 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+10:41:25.938164 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+10:41:25.938809 main      Service: Seamless Mode Support
+10:41:25.939428 main      Daemonizing service ...
+10:41:25.943294 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+10:41:25.943296 main     Log opened 2025-11-28T10:41:25.943290000Z
+10:41:25.945022 main     OS Product: Linux
+10:41:25.945762 main     OS Release: 5.15.0-161-generic
+10:41:25.946336 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+10:41:25.947129 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+10:41:25.947130 main     Process ID: 2180
+10:41:25.947131 main     Package type: LINUX_64BITS_GENERIC
+10:41:25.949365 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+10:41:25.950473 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+10:41:25.952603 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+10:41:25.956014 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+10:41:25.956599 main      Service: Drag'n'Drop
+10:41:25.957039 main      Daemonizing service ...
+10:41:25.960228 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+10:41:25.960230 main     Log opened 2025-11-28T10:41:25.960224000Z
+10:41:25.961503 main     OS Product: Linux
+10:41:25.962055 main     OS Release: 5.15.0-161-generic
+10:41:25.962548 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+10:41:25.963199 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+10:41:25.963200 main     Process ID: 2188
+10:41:25.963200 main     Package type: LINUX_64BITS_GENERIC
+10:41:25.964514 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+10:41:25.965312 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+10:41:25.966524 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+10:41:25.970133 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+10:41:25.970702 main      Service: VirtualBox host version check
+10:41:25.971712 main      Daemonizing service ...
+10:41:25.974099 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+10:41:25.974101 main     Log opened 2025-11-28T10:41:25.974095000Z
+10:41:25.975132 main     OS Product: Linux
+10:41:25.975966 main     OS Release: 5.15.0-161-generic
+10:41:25.976408 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+10:41:25.977029 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+10:41:25.977029 main     Process ID: 2197
+10:41:25.977030 main     Package type: LINUX_64BITS_GENERIC
+10:41:25.977999 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+10:41:25.978912 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+10:41:25.980294 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+10:41:25.982937 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+10:41:25.983592 main      Service: VMSVGA display assistant
+10:41:25.984120 main      Daemonizing service ...
+10:41:26.807786 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+10:41:26.807788 main     Log opened 2025-11-28T10:41:26.807781000Z
+10:41:26.808852 main     OS Product: Linux
+10:41:26.809205 main     OS Release: 5.15.0-161-generic
+10:41:26.809715 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+New PolkitAgentListener  0x558789b90200
+Adding new listener  PolkitQt1::Agent::Listener(0x7fff6f675730) for  0x558789b90200
+10:41:26.810529 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+10:41:26.810531 main     Process ID: 2292
+10:41:26.810531 main     Package type: LINUX_64BITS_GENERIC
+10:41:26.823164 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+10:41:26.825414 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+10:41:26.826694 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+10:41:26.846199 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+10:41:26.846947 main      Service: Shared Clipboard
+10:41:26.847874 main      Daemonizing service ...
+10:41:26.878010 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+10:41:26.878012 main     Log opened 2025-11-28T10:41:26.878004000Z
+10:41:26.879328 main     OS Product: Linux
+10:41:26.879895 main     OS Release: 5.15.0-161-generic
+10:41:26.880413 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+10:41:26.881061 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+10:41:26.881062 main     Process ID: 2302
+10:41:26.881062 main     Package type: LINUX_64BITS_GENERIC
+10:41:26.882056 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+10:41:26.882871 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+10:41:26.901897 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+10:41:26.914119 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+10:41:26.914797 main      Service: Seamless Mode Support
+10:41:26.915324 main      Daemonizing service ...
+10:41:26.965245 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+10:41:26.965247 main     Log opened 2025-11-28T10:41:26.965240000Z
+10:41:26.966407 main     OS Product: Linux
+10:41:26.966772 main     OS Release: 5.15.0-161-generic
+10:41:26.967216 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+10:41:26.968181 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+10:41:26.968182 main     Process ID: 2311
+10:41:26.968183 main     Package type: LINUX_64BITS_GENERIC
+isPrimaryInstance
+10:41:26.969416 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+10:41:26.970971 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+10:41:26.974188 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+10:41:26.995977 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+10:41:26.996775 main      Service: Drag'n'Drop
+10:41:26.997278 main      Daemonizing service ...
+10:41:27.021998 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+10:41:27.022001 main     Log opened 2025-11-28T10:41:27.021991000Z
+10:41:27.023221 main     OS Product: Linux
+10:41:27.023739 main     OS Release: 5.15.0-161-generic
+10:41:27.024266 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+10:41:27.025075 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+10:41:27.025076 main     Process ID: 2318
+10:41:27.025076 main     Package type: LINUX_64BITS_GENERIC
+10:41:27.026184 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+10:41:27.027256 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+10:41:27.048139 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+10:41:27.060166 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+10:41:27.060884 main      Service: VirtualBox host version check
+10:41:27.061536 main      Daemonizing service ...
+10:41:27.084041 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+10:41:27.084043 main     Log opened 2025-11-28T10:41:27.084036000Z
+10:41:27.085522 main     OS Product: Linux
+10:41:27.085966 main     OS Release: 5.15.0-161-generic
+10:41:27.087069 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+10:41:27.095590 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+10:41:27.095592 main     Process ID: 2323
+10:41:27.095593 main     Package type: LINUX_64BITS_GENERIC
+10:41:27.112681 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+10:41:27.121536 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+10:41:27.123025 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+10:41:27.132631 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+10:41:27.133365 main      Service: VMSVGA display assistant
+10:41:27.133918 main      Daemonizing service ...
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+systemd: "CanHibernate" = "no"
+** Dbus error **************************
+Error name  "org.freedesktop.DBus.Error.InvalidArgs"
+Error msg   "No such interface “org.freedesktop.DBus.Properties”"
+****************************************
+dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+systemd: "CanSuspend" = "yes"
+systemd: "CanReboot" = "yes"
+systemd: "CanPowerOff" = "yes"
+WinIdChange 1400008 handle QWidgetWindow(0x55d465bec180, name="LXQtPanel panel1Window") QScreen(0x55d46593c390, name="Virtual1")
+Systray started
+()
+Starting idlenesswatcher
+"PowerButton" "" ""
+"SuspendButton" "" ""
+"HibenateButton" "" ""
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+[Notice] Started
+operation finished: 0x0
+delete MountOperation
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/local/share/doc /usr/local/share/doc none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/local/share/doc" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/gimp/2.0/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gtk-doc /usr/share/gtk-doc none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/gtk-doc" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/javascript /usr/share/javascript none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/javascript" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/libreoffice/help /usr/share/libreoffice/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/libreoffice/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme /usr/share/sphinx_rtd_theme none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/xubuntu-docs" because it would affect the host in "/var/lib/snapd"
+[Parent 3282, Main Thread] WARNING: Failed to mkdir /home/alfgba/snap/firefox/7423/.config/ibus/bus: Not a directory: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox_firefox:3282): IBUS-WARNING **: 10:52:21.432: Failed to mkdir /home/alfgba/snap/firefox/7423/.config/ibus/bus: Not a directory
+execAction "/usr/share/applications/firefox.desktop"
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+Xsession: X session started for alfgba at lun 01 dic 2025 12:37:07 UTC
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/alfgba/.Xauthority
+localuser:alfgba being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-Lubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting DESKTOP_SESSION=Lubuntu
+dbus-update-activation-environment: setting PWD=/home/alfgba
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting LOGNAME=alfgba
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/alfgba/.Xauthority
+dbus-update-activation-environment: setting HOME=/home/alfgba
+dbus-update-activation-environment: setting LANG=es_ES.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=alfgba
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+12:37:07.325833 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+12:37:07.325835 main     Log opened 2025-12-01T12:37:07.324909000Z
+12:37:07.326911 main     OS Product: Linux
+12:37:07.327303 main     OS Release: 5.15.0-161-generic
+12:37:07.327771 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+12:37:07.328394 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+12:37:07.328395 main     Process ID: 2239
+12:37:07.328396 main     Package type: LINUX_64BITS_GENERIC
+12:37:07.329419 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+12:37:07.330175 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+12:37:07.331414 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+12:37:07.333273 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+12:37:07.333856 main      Service: Shared Clipboard
+12:37:07.334325 main      Daemonizing service ...
+12:37:07.336586 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+12:37:07.336588 main     Log opened 2025-12-01T12:37:07.336582000Z
+12:37:07.337823 main     OS Product: Linux
+12:37:07.338737 main     OS Release: 5.15.0-161-generic
+12:37:07.339972 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+12:37:07.340609 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+12:37:07.340610 main     Process ID: 2242
+12:37:07.340610 main     Package type: LINUX_64BITS_GENERIC
+12:37:07.341610 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+12:37:07.342416 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+12:37:07.343841 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+12:37:07.346388 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+12:37:07.347164 main      Service: Seamless Mode Support
+12:37:07.347699 main      Daemonizing service ...
+12:37:07.350998 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+12:37:07.351000 main     Log opened 2025-12-01T12:37:07.350993000Z
+12:37:07.352151 main     OS Product: Linux
+12:37:07.352569 main     OS Release: 5.15.0-161-generic
+12:37:07.353090 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+12:37:07.353853 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+12:37:07.353854 main     Process ID: 2251
+12:37:07.353855 main     Package type: LINUX_64BITS_GENERIC
+12:37:07.355480 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+12:37:07.356367 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+12:37:07.357870 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+12:37:07.360554 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+12:37:07.361390 main      Service: Drag'n'Drop
+12:37:07.362326 main      Daemonizing service ...
+12:37:07.367331 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+12:37:07.367334 main     Log opened 2025-12-01T12:37:07.367327000Z
+12:37:07.368401 main     OS Product: Linux
+12:37:07.368812 main     OS Release: 5.15.0-161-generic
+12:37:07.369285 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+12:37:07.369986 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+12:37:07.369987 main     Process ID: 2258
+12:37:07.369987 main     Package type: LINUX_64BITS_GENERIC
+12:37:07.371340 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+12:37:07.372365 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+12:37:07.373737 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+12:37:07.377755 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+12:37:07.378302 main      Service: VirtualBox host version check
+12:37:07.378890 main      Daemonizing service ...
+12:37:07.386640 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+12:37:07.386642 main     Log opened 2025-12-01T12:37:07.386622000Z
+12:37:07.388005 main     OS Product: Linux
+12:37:07.388728 main     OS Release: 5.15.0-161-generic
+12:37:07.389168 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+12:37:07.389796 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+12:37:07.389797 main     Process ID: 2268
+12:37:07.389798 main     Package type: LINUX_64BITS_GENERIC
+12:37:07.390899 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+12:37:07.391772 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+12:37:07.393010 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+12:37:07.394928 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+12:37:07.395620 main      Service: VMSVGA display assistant
+12:37:07.396142 main      Daemonizing service ...
+12:37:08.259652 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+12:37:08.259654 main     Log opened 2025-12-01T12:37:08.259647000Z
+12:37:08.266816 main     OS Product: Linux
+12:37:08.269921 main     OS Release: 5.15.0-161-generic
+12:37:08.282002 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+12:37:08.284687 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+12:37:08.284690 main     Process ID: 2367
+12:37:08.284691 main     Package type: LINUX_64BITS_GENERIC
+12:37:08.287881 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+12:37:08.292226 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+12:37:08.294592 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+12:37:08.316772 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+12:37:08.317538 main      Service: Shared Clipboard
+12:37:08.318202 main      Daemonizing service ...
+12:37:08.335438 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+12:37:08.335441 main     Log opened 2025-12-01T12:37:08.335433000Z
+12:37:08.336450 main     OS Product: Linux
+12:37:08.336808 main     OS Release: 5.15.0-161-generic
+12:37:08.337245 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+12:37:08.337944 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+12:37:08.337944 main     Process ID: 2372
+12:37:08.337945 main     Package type: LINUX_64BITS_GENERIC
+12:37:08.341345 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+12:37:08.344685 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+12:37:08.351242 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+12:37:08.367140 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+12:37:08.367740 main      Service: Seamless Mode Support
+New PolkitAgentListener  0x563c57172800
+Adding new listener  PolkitQt1::Agent::Listener(0x7ffead0b2130) for  0x563c57172800
+12:37:08.368266 main      Daemonizing service ...
+12:37:08.389732 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+12:37:08.389734 main     Log opened 2025-12-01T12:37:08.389726000Z
+12:37:08.391621 main     OS Product: Linux
+12:37:08.392098 main     OS Release: 5.15.0-161-generic
+12:37:08.393173 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+12:37:08.398842 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+12:37:08.398846 main     Process ID: 2378
+12:37:08.398847 main     Package type: LINUX_64BITS_GENERIC
+12:37:08.401104 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+12:37:08.401928 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+12:37:08.407639 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+12:37:08.423727 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+12:37:08.424410 main      Service: Drag'n'Drop
+12:37:08.424895 main      Daemonizing service ...
+12:37:08.434384 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+12:37:08.434414 main     Log opened 2025-12-01T12:37:08.434378000Z
+12:37:08.436056 main     OS Product: Linux
+12:37:08.436471 main     OS Release: 5.15.0-161-generic
+12:37:08.437031 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+12:37:08.437783 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+12:37:08.437784 main     Process ID: 2387
+12:37:08.437785 main     Package type: LINUX_64BITS_GENERIC
+12:37:08.439323 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+12:37:08.440562 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+12:37:08.442818 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+12:37:08.456349 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+12:37:08.457354 main      Service: VirtualBox host version check
+12:37:08.458043 main      Daemonizing service ...
+12:37:08.476714 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+12:37:08.476717 main     Log opened 2025-12-01T12:37:08.476709000Z
+12:37:08.478049 main     OS Product: Linux
+12:37:08.478487 main     OS Release: 5.15.0-161-generic
+12:37:08.479292 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+12:37:08.480528 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+12:37:08.480529 main     Process ID: 2393
+12:37:08.480530 main     Package type: LINUX_64BITS_GENERIC
+12:37:08.488749 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+12:37:08.490084 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+12:37:08.492034 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+12:37:08.497709 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+12:37:08.498782 main      Service: VMSVGA display assistant
+12:37:08.499554 main      Daemonizing service ...
+isPrimaryInstance
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+systemd: "CanHibernate" = "no"
+dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+systemd: "CanSuspend" = "yes"
+systemd: "CanReboot" = "yes"
+systemd: "CanPowerOff" = "yes"
+WinIdChange 1800008 handle QWidgetWindow(0x5622ad0d6e50, name="LXQtPanel panel1Window") QScreen(0x5622ace278c0, name="Virtual1")
+Systray started
+()
+Starting idlenesswatcher
+"PowerButton" "" ""
+"SuspendButton" "" ""
+"HibenateButton" "" ""
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+[Notice] Started
+operation finished: 0x0
+delete MountOperation
+Leyendo lista de paquetes... 0%Leyendo lista de paquetes... 100%Leyendo lista de paquetes... Hecho
+Creando árbol de dependencias... 0%Creando árbol de dependencias... 0%Creando árbol de dependencias... 50%Creando árbol de dependencias... 50%Creando árbol de dependencias... Hecho
+Leyendo la información de estado... 0%Leyendo la información de estado... 0%Leyendo la información de estado... Hecho
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 844, resource id: 39845894, major code: 18 (ChangeProperty), minor code: 0
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+aboutToQuit
+xscreensaver:   signal: 0: child pid 2356 (xscreensaver-systemd) terminated with signal 15.
+xscreensaver:   signal: 0: CPU used: 0.0u, 0.0s.
+
+xscreensaver: 12:55:51: SIGTERM
+
+The X11 connection broke (error 1). Did the X11 server die?
+The X11 connection broke: I/O error (code 1)
+XIO:  fatal IO error 0 (Success) on X server ":0"
+      after 1832 requests (899 known processed) with 0 events remaining.
+lxqt-session: Module lxqt-runner.desktop won't terminate ... killing.
+QProcess: Destroyed while process ("lxqt-runner") is still running.
+lxqt-session: Got an invalid (null) module to restart. Ignoring it
+Xsession: X session started for alfgba at lun 01 dic 2025 12:56:40 UTC
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/alfgba/.Xauthority
+localuser:alfgba being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-Lubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting DESKTOP_SESSION=Lubuntu
+dbus-update-activation-environment: setting PWD=/home/alfgba
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting LOGNAME=alfgba
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/alfgba/.Xauthority
+dbus-update-activation-environment: setting HOME=/home/alfgba
+dbus-update-activation-environment: setting LANG=es_ES.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=alfgba
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+12:56:40.265108 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+12:56:40.265111 main     Log opened 2025-12-01T12:56:40.264334000Z
+12:56:40.266237 main     OS Product: Linux
+12:56:40.266594 main     OS Release: 5.15.0-161-generic
+12:56:40.267039 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+12:56:40.267674 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+12:56:40.267675 main     Process ID: 2156
+12:56:40.267675 main     Package type: LINUX_64BITS_GENERIC
+12:56:40.268680 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+12:56:40.269624 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+12:56:40.270847 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+12:56:40.272721 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+12:56:40.273280 main      Service: Shared Clipboard
+12:56:40.273818 main      Daemonizing service ...
+12:56:40.275861 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+12:56:40.275863 main     Log opened 2025-12-01T12:56:40.275855000Z
+12:56:40.276976 main     OS Product: Linux
+12:56:40.277796 main     OS Release: 5.15.0-161-generic
+12:56:40.278290 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+12:56:40.279696 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+12:56:40.279697 main     Process ID: 2160
+12:56:40.279698 main     Package type: LINUX_64BITS_GENERIC
+12:56:40.280820 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+12:56:40.281712 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+12:56:40.282917 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+12:56:40.284757 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+12:56:40.285302 main      Service: Seamless Mode Support
+12:56:40.285974 main      Daemonizing service ...
+12:56:40.288603 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+12:56:40.288605 main     Log opened 2025-12-01T12:56:40.288582000Z
+12:56:40.290110 main     OS Product: Linux
+12:56:40.290682 main     OS Release: 5.15.0-161-generic
+12:56:40.291179 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+12:56:40.291956 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+12:56:40.291957 main     Process ID: 2168
+12:56:40.291957 main     Package type: LINUX_64BITS_GENERIC
+12:56:40.293054 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+12:56:40.293995 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+12:56:40.295532 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+12:56:40.297874 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+12:56:40.298590 main      Service: Drag'n'Drop
+12:56:40.299401 main      Daemonizing service ...
+12:56:40.304161 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+12:56:40.304164 main     Log opened 2025-12-01T12:56:40.304141000Z
+12:56:40.305617 main     OS Product: Linux
+12:56:40.306121 main     OS Release: 5.15.0-161-generic
+12:56:40.306662 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+12:56:40.307466 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+12:56:40.307467 main     Process ID: 2175
+12:56:40.307468 main     Package type: LINUX_64BITS_GENERIC
+12:56:40.308561 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+12:56:40.309587 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+12:56:40.312138 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+12:56:40.315225 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+12:56:40.315957 main      Service: VirtualBox host version check
+12:56:40.316602 main      Daemonizing service ...
+12:56:40.320694 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+12:56:40.320696 main     Log opened 2025-12-01T12:56:40.320674000Z
+12:56:40.322687 main     OS Product: Linux
+12:56:40.323041 main     OS Release: 5.15.0-161-generic
+12:56:40.323813 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+12:56:40.324451 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+12:56:40.324452 main     Process ID: 2182
+12:56:40.324452 main     Package type: LINUX_64BITS_GENERIC
+12:56:40.325504 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+12:56:40.326375 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+12:56:40.327748 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+12:56:40.329753 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+12:56:40.330313 main      Service: VMSVGA display assistant
+12:56:40.330870 main      Daemonizing service ...
+12:56:41.225171 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+12:56:41.225173 main     Log opened 2025-12-01T12:56:41.225166000Z
+New PolkitAgentListener  0x56170a672200
+Adding new listener  PolkitQt1::Agent::Listener(0x7ffd487f1ff0) for  0x56170a672200
+12:56:41.226928 main     OS Product: Linux
+12:56:41.227342 main     OS Release: 5.15.0-161-generic
+12:56:41.227895 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+12:56:41.228570 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+12:56:41.228571 main     Process ID: 2288
+12:56:41.228572 main     Package type: LINUX_64BITS_GENERIC
+12:56:41.253665 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+12:56:41.254667 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+12:56:41.255899 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+12:56:41.273477 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+12:56:41.274101 main      Service: Shared Clipboard
+12:56:41.274775 main      Daemonizing service ...
+isPrimaryInstance
+12:56:41.279167 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+12:56:41.279169 main     Log opened 2025-12-01T12:56:41.279162000Z
+12:56:41.280377 main     OS Product: Linux
+12:56:41.280783 main     OS Release: 5.15.0-161-generic
+12:56:41.281309 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+12:56:41.282527 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+12:56:41.282529 main     Process ID: 2299
+12:56:41.282529 main     Package type: LINUX_64BITS_GENERIC
+12:56:41.283781 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+12:56:41.285236 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+12:56:41.287362 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+12:56:41.301446 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+12:56:41.302060 main      Service: Seamless Mode Support
+12:56:41.302646 main      Daemonizing service ...
+12:56:41.320012 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+12:56:41.320015 main     Log opened 2025-12-01T12:56:41.320005000Z
+12:56:41.321124 main     OS Product: Linux
+12:56:41.325250 main     OS Release: 5.15.0-161-generic
+12:56:41.326732 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+12:56:41.327414 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+12:56:41.327415 main     Process ID: 2303
+12:56:41.327416 main     Package type: LINUX_64BITS_GENERIC
+12:56:41.328408 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+12:56:41.329189 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+12:56:41.330953 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+12:56:41.333859 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+12:56:41.334510 main      Service: Drag'n'Drop
+12:56:41.334937 main      Daemonizing service ...
+12:56:41.338550 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+12:56:41.338553 main     Log opened 2025-12-01T12:56:41.338543000Z
+12:56:41.340322 main     OS Product: Linux
+12:56:41.341131 main     OS Release: 5.15.0-161-generic
+12:56:41.342167 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+12:56:41.343709 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+12:56:41.343723 main     Process ID: 2308
+12:56:41.343724 main     Package type: LINUX_64BITS_GENERIC
+12:56:41.345762 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+12:56:41.347242 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+12:56:41.349185 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+12:56:41.353076 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+12:56:41.354141 main      Service: VirtualBox host version check
+12:56:41.354767 main      Daemonizing service ...
+12:56:41.357885 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+12:56:41.357888 main     Log opened 2025-12-01T12:56:41.357879000Z
+12:56:41.359069 main     OS Product: Linux
+12:56:41.359488 main     OS Release: 5.15.0-161-generic
+12:56:41.360018 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+12:56:41.360682 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+12:56:41.360683 main     Process ID: 2312
+12:56:41.360684 main     Package type: LINUX_64BITS_GENERIC
+12:56:41.362309 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+12:56:41.363231 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+12:56:41.364992 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+12:56:41.368054 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+12:56:41.368902 main      Service: VMSVGA display assistant
+12:56:41.370050 main      Daemonizing service ...
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+systemd: "CanHibernate" = "no"
+** Dbus error **************************
+Error name  "org.freedesktop.DBus.Error.InvalidArgs"
+Error msg   "No such interface “org.freedesktop.DBus.Properties”"
+****************************************
+dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+systemd: "CanSuspend" = "yes"
+systemd: "CanReboot" = "yes"
+systemd: "CanPowerOff" = "yes"
+WinIdChange 1000008 handle QWidgetWindow(0x55bc33258f90, name="LXQtPanel panel1Window") QScreen(0x55bc32fa9720, name="Virtual1")
+Systray started
+()
+Starting idlenesswatcher
+"PowerButton" "" ""
+"SuspendButton" "" ""
+"HibenateButton" "" ""
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+[Notice] Started
+Leyendo lista de paquetes... 0%Leyendo lista de paquetes... 100%Leyendo lista de paquetes... Hecho
+Creando árbol de dependencias... 0%Creando árbol de dependencias... 0%Creando árbol de dependencias... 50%Creando árbol de dependencias... 50%operation finished: 0x0
+delete MountOperation
+Creando árbol de dependencias... Hecho
+Leyendo la información de estado... 0%Leyendo la información de estado... 0%Leyendo la información de estado... Hecho
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 898, resource id: 39845894, major code: 18 (ChangeProperty), minor code: 0
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Xsession: X session started for alfgba at mié 03 dic 2025 09:27:03 UTC
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/alfgba/.Xauthority
+localuser:alfgba being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-Lubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting DESKTOP_SESSION=Lubuntu
+dbus-update-activation-environment: setting PWD=/home/alfgba
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting LOGNAME=alfgba
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/alfgba/.Xauthority
+dbus-update-activation-environment: setting HOME=/home/alfgba
+dbus-update-activation-environment: setting LANG=es_ES.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=alfgba
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+09:27:03.698644 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+09:27:03.698647 main     Log opened 2025-12-03T09:27:03.697811000Z
+09:27:03.699644 main     OS Product: Linux
+09:27:03.699980 main     OS Release: 5.15.0-161-generic
+09:27:03.700450 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+09:27:03.701076 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+09:27:03.701077 main     Process ID: 2230
+09:27:03.701077 main     Package type: LINUX_64BITS_GENERIC
+09:27:03.702503 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+09:27:03.703264 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+09:27:03.704477 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+09:27:03.706528 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+09:27:03.707068 main      Service: Shared Clipboard
+09:27:03.707516 main      Daemonizing service ...
+09:27:03.710114 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+09:27:03.710116 main     Log opened 2025-12-03T09:27:03.710111000Z
+09:27:03.711874 main     OS Product: Linux
+09:27:03.712236 main     OS Release: 5.15.0-161-generic
+09:27:03.712687 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+09:27:03.713336 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+09:27:03.713337 main     Process ID: 2234
+09:27:03.713338 main     Package type: LINUX_64BITS_GENERIC
+09:27:03.714719 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+09:27:03.715693 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+09:27:03.717010 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+09:27:03.720580 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+09:27:03.721163 main      Service: Seamless Mode Support
+09:27:03.722129 main      Daemonizing service ...
+09:27:03.728133 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+09:27:03.728149 main     Log opened 2025-12-03T09:27:03.728129000Z
+09:27:03.730094 main     OS Product: Linux
+09:27:03.730503 main     OS Release: 5.15.0-161-generic
+09:27:03.731013 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+09:27:03.731898 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+09:27:03.731900 main     Process ID: 2242
+09:27:03.731900 main     Package type: LINUX_64BITS_GENERIC
+09:27:03.733002 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+09:27:03.734244 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+09:27:03.735528 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+09:27:03.737712 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+09:27:03.738529 main      Service: Drag'n'Drop
+09:27:03.738956 main      Daemonizing service ...
+09:27:03.741015 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+09:27:03.741018 main     Log opened 2025-12-03T09:27:03.741011000Z
+09:27:03.742209 main     OS Product: Linux
+09:27:03.742640 main     OS Release: 5.15.0-161-generic
+09:27:03.743131 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+09:27:03.743818 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+09:27:03.743819 main     Process ID: 2250
+09:27:03.743820 main     Package type: LINUX_64BITS_GENERIC
+09:27:03.744828 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+09:27:03.746404 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+09:27:03.748404 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+09:27:03.751438 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+09:27:03.751990 main      Service: VirtualBox host version check
+09:27:03.752546 main      Daemonizing service ...
+09:27:03.754753 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+09:27:03.754755 main     Log opened 2025-12-03T09:27:03.754748000Z
+09:27:03.755785 main     OS Product: Linux
+09:27:03.756125 main     OS Release: 5.15.0-161-generic
+09:27:03.756555 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+09:27:03.757219 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+09:27:03.757220 main     Process ID: 2259
+09:27:03.757221 main     Package type: LINUX_64BITS_GENERIC
+09:27:03.758307 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+09:27:03.759469 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+09:27:03.760966 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+09:27:03.763867 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+09:27:03.764412 main      Service: VMSVGA display assistant
+09:27:03.765095 main      Daemonizing service ...
+09:27:04.653748 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+09:27:04.653751 main     Log opened 2025-12-03T09:27:04.653743000Z
+09:27:04.654968 main     OS Product: Linux
+09:27:04.655506 main     OS Release: 5.15.0-161-generic
+09:27:04.655996 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+09:27:04.656631 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+09:27:04.656632 main     Process ID: 2356
+09:27:04.656632 main     Package type: LINUX_64BITS_GENERIC
+09:27:04.661298 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+09:27:04.665361 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+09:27:04.670499 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+09:27:04.706336 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+09:27:04.706925 main      Service: Shared Clipboard
+09:27:04.707460 main      Daemonizing service ...
+09:27:04.723739 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+09:27:04.723742 main     Log opened 2025-12-03T09:27:04.723700000Z
+09:27:04.729727 main     OS Product: Linux
+09:27:04.730102 main     OS Release: 5.15.0-161-generic
+09:27:04.730544 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+09:27:04.731245 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+09:27:04.731245 main     Process ID: 2364
+09:27:04.731246 main     Package type: LINUX_64BITS_GENERIC
+09:27:04.732407 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+09:27:04.733191 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+09:27:04.754744 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+New PolkitAgentListener  0x556b6d4eb200
+Adding new listener  PolkitQt1::Agent::Listener(0x7ffc77dab390) for  0x556b6d4eb200
+09:27:04.778200 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+09:27:04.784046 main      Service: Seamless Mode Support
+09:27:04.785026 main      Daemonizing service ...
+09:27:04.805983 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+09:27:04.805985 main     Log opened 2025-12-03T09:27:04.805978000Z
+09:27:04.807501 main     OS Product: Linux
+09:27:04.807869 main     OS Release: 5.15.0-161-generic
+09:27:04.808334 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+09:27:04.814971 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+09:27:04.814974 main     Process ID: 2375
+09:27:04.814974 main     Package type: LINUX_64BITS_GENERIC
+09:27:04.816274 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+isPrimaryInstance
+09:27:04.825121 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+09:27:04.831677 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+09:27:04.846269 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+09:27:04.846882 main      Service: Drag'n'Drop
+09:27:04.847335 main      Daemonizing service ...
+09:27:04.861920 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+09:27:04.861923 main     Log opened 2025-12-03T09:27:04.861901000Z
+09:27:04.863254 main     OS Product: Linux
+09:27:04.863640 main     OS Release: 5.15.0-161-generic
+09:27:04.868408 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+09:27:04.869405 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+09:27:04.869406 main     Process ID: 2381
+09:27:04.869407 main     Package type: LINUX_64BITS_GENERIC
+09:27:04.870860 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+09:27:04.873283 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+09:27:04.889051 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+09:27:04.893665 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+09:27:04.894294 main      Service: VirtualBox host version check
+09:27:04.895443 main      Daemonizing service ...
+09:27:04.910017 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+09:27:04.910020 main     Log opened 2025-12-03T09:27:04.910012000Z
+09:27:04.917310 main     OS Product: Linux
+09:27:04.921838 main     OS Release: 5.15.0-161-generic
+09:27:04.922376 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+09:27:04.923151 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+09:27:04.923152 main     Process ID: 2385
+09:27:04.923153 main     Package type: LINUX_64BITS_GENERIC
+09:27:04.924237 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+09:27:04.925146 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+09:27:04.928015 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+09:27:04.936292 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+09:27:04.950268 main      Service: VMSVGA display assistant
+09:27:04.951171 main      Daemonizing service ...
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+systemd: "CanHibernate" = "no"
+** Dbus error **************************
+Error name  "org.freedesktop.DBus.Error.InvalidArgs"
+Error msg   "No such interface “org.freedesktop.DBus.Properties”"
+****************************************
+dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+systemd: "CanSuspend" = "yes"
+systemd: "CanReboot" = "yes"
+systemd: "CanPowerOff" = "yes"
+WinIdChange 1600008 handle QWidgetWindow(0x562f734c8c90, name="LXQtPanel panel1Window") QScreen(0x562f7321e720, name="Virtual1")
+Systray started
+()
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Starting idlenesswatcher
+"PowerButton" "" ""
+"SuspendButton" "" ""
+"HibenateButton" "" ""
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+[Notice] Started
+operation finished: 0x0
+delete MountOperation
+Leyendo lista de paquetes... 0%Leyendo lista de paquetes... 100%Leyendo lista de paquetes... Hecho
+Creando árbol de dependencias... 0%Creando árbol de dependencias... 0%Creando árbol de dependencias... 50%Creando árbol de dependencias... 50%Creando árbol de dependencias... Hecho
+Leyendo la información de estado... 0%Leyendo la información de estado... 0%Leyendo la información de estado... Hecho
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 847, resource id: 39845894, major code: 18 (ChangeProperty), minor code: 0
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+execAction "/usr/share/applications/firefox.desktop"
+execAction "/usr/share/applications/firefox.desktop"
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/local/share/doc /usr/local/share/doc none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/local/share/doc" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/gimp/2.0/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gtk-doc /usr/share/gtk-doc none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/gtk-doc" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/javascript /usr/share/javascript none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/javascript" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/libreoffice/help /usr/share/libreoffice/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/libreoffice/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme /usr/share/sphinx_rtd_theme none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/xubuntu-docs" because it would affect the host in "/var/lib/snapd"
+[Parent 3363, Main Thread] WARNING: Failed to mkdir /home/alfgba/snap/firefox/7423/.config/ibus/bus: Not a directory: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox_firefox:3363): IBUS-WARNING **: 09:38:22.176: Failed to mkdir /home/alfgba/snap/firefox/7423/.config/ibus/bus: Not a directory
+execAction "/usr/share/applications/firefox.desktop"
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+[Parent 6314, Main Thread] WARNING: Failed to mkdir /home/alfgba/snap/firefox/7423/.config/ibus/bus: Not a directory: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox_firefox:6314): IBUS-WARNING **: 10:07:19.232: Failed to mkdir /home/alfgba/snap/firefox/7423/.config/ibus/bus: Not a directory
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Service ":1.77" unregistered
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 5699, resource id: 39845894, major code: 18 (ChangeProperty), minor code: 0
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+execAction "/usr/share/applications/firefox.desktop"
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+[Parent 7578, Main Thread] WARNING: Failed to mkdir /home/alfgba/snap/firefox/7423/.config/ibus/bus: Not a directory: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox_firefox:7578): IBUS-WARNING **: 10:27:57.528: Failed to mkdir /home/alfgba/snap/firefox/7423/.config/ibus/bus: Not a directory
+execAction "/usr/share/applications/firefox.desktop"
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+[Parent 8738, Main Thread] WARNING: Failed to mkdir /home/alfgba/snap/firefox/7423/.config/ibus/bus: Not a directory: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox_firefox:8738): IBUS-WARNING **: 10:37:00.498: Failed to mkdir /home/alfgba/snap/firefox/7423/.config/ibus/bus: Not a directory
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Service ":1.113" unregistered
+execAction "/usr/share/applications/firefox.desktop"
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+[Parent 9857, Main Thread] WARNING: Failed to mkdir /home/alfgba/snap/firefox/7423/.config/ibus/bus: Not a directory: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox_firefox:9857): IBUS-WARNING **: 10:43:43.784: Failed to mkdir /home/alfgba/snap/firefox/7423/.config/ibus/bus: Not a directory
+Xsession: X session started for alfgba at mié 21 ene 2026 10:19:59 UTC
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/alfgba/.Xauthority
+localuser:alfgba being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-Lubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting DESKTOP_SESSION=Lubuntu
+dbus-update-activation-environment: setting PWD=/home/alfgba
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting LOGNAME=alfgba
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/alfgba/.Xauthority
+dbus-update-activation-environment: setting HOME=/home/alfgba
+dbus-update-activation-environment: setting LANG=es_ES.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=alfgba
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+10:20:00.096810 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+10:20:00.096814 main     Log opened 2026-01-21T10:20:00.095982000Z
+10:20:00.097950 main     OS Product: Linux
+10:20:00.098310 main     OS Release: 5.15.0-161-generic
+10:20:00.098766 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+10:20:00.099424 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+10:20:00.099425 main     Process ID: 2254
+10:20:00.099425 main     Package type: LINUX_64BITS_GENERIC
+10:20:00.100871 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+10:20:00.101703 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+10:20:00.103052 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+10:20:00.106148 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+10:20:00.106710 main      Service: Shared Clipboard
+10:20:00.107181 main      Daemonizing service ...
+10:20:00.109400 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+10:20:00.109402 main     Log opened 2026-01-21T10:20:00.109395000Z
+10:20:00.110531 main     OS Product: Linux
+10:20:00.111254 main     OS Release: 5.15.0-161-generic
+10:20:00.111687 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+10:20:00.112551 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+10:20:00.112552 main     Process ID: 2258
+10:20:00.112553 main     Package type: LINUX_64BITS_GENERIC
+10:20:00.113689 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+10:20:00.114530 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+10:20:00.115712 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+10:20:00.119034 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+10:20:00.119667 main      Service: Seamless Mode Support
+10:20:00.120609 main      Daemonizing service ...
+10:20:00.123036 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+10:20:00.123039 main     Log opened 2026-01-21T10:20:00.123032000Z
+10:20:00.124414 main     OS Product: Linux
+10:20:00.124805 main     OS Release: 5.15.0-161-generic
+10:20:00.125305 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+10:20:00.126007 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+10:20:00.126008 main     Process ID: 2266
+10:20:00.126009 main     Package type: LINUX_64BITS_GENERIC
+10:20:00.127470 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+10:20:00.129034 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+10:20:00.131611 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+10:20:00.134793 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+10:20:00.135364 main      Service: Drag'n'Drop
+10:20:00.135811 main      Daemonizing service ...
+10:20:00.138281 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+10:20:00.138284 main     Log opened 2026-01-21T10:20:00.138277000Z
+10:20:00.139354 main     OS Product: Linux
+10:20:00.139772 main     OS Release: 5.15.0-161-generic
+10:20:00.140489 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+10:20:00.141127 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+10:20:00.141128 main     Process ID: 2274
+10:20:00.141129 main     Package type: LINUX_64BITS_GENERIC
+10:20:00.142646 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+10:20:00.143412 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+10:20:00.144856 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+10:20:00.147862 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+10:20:00.148679 main      Service: VirtualBox host version check
+10:20:00.149385 main      Daemonizing service ...
+10:20:00.152674 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+10:20:00.152676 main     Log opened 2026-01-21T10:20:00.152670000Z
+10:20:00.153852 main     OS Product: Linux
+10:20:00.154233 main     OS Release: 5.15.0-161-generic
+10:20:00.154688 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+10:20:00.155322 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+10:20:00.155323 main     Process ID: 2282
+10:20:00.155324 main     Package type: LINUX_64BITS_GENERIC
+10:20:00.156449 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+10:20:00.157221 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+10:20:00.158509 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+10:20:00.160523 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+10:20:00.161074 main      Service: VMSVGA display assistant
+10:20:00.161587 main      Daemonizing service ...
+10:20:00.975860 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+10:20:00.975862 main     Log opened 2026-01-21T10:20:00.975853000Z
+10:20:00.976977 main     OS Product: Linux
+10:20:00.977360 main     OS Release: 5.15.0-161-generic
+10:20:00.977796 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+10:20:00.978497 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+10:20:00.978497 main     Process ID: 2377
+10:20:00.978498 main     Package type: LINUX_64BITS_GENERIC
+10:20:00.979526 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+10:20:00.980814 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+10:20:00.982115 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+10:20:00.996953 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+10:20:00.997586 main      Service: Shared Clipboard
+10:20:00.998071 main      Daemonizing service ...
+10:20:01.022411 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+10:20:01.022414 main     Log opened 2026-01-21T10:20:01.022404000Z
+10:20:01.023541 main     OS Product: Linux
+10:20:01.023885 main     OS Release: 5.15.0-161-generic
+10:20:01.028811 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+10:20:01.029640 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+10:20:01.029641 main     Process ID: 2381
+10:20:01.029642 main     Package type: LINUX_64BITS_GENERIC
+10:20:01.030772 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+10:20:01.031605 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+10:20:01.047456 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+10:20:01.069799 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+10:20:01.070542 main      Service: Seamless Mode Support
+10:20:01.071142 main      Daemonizing service ...
+10:20:01.100674 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+10:20:01.100676 main     Log opened 2026-01-21T10:20:01.100669000Z
+10:20:01.102084 main     OS Product: Linux
+10:20:01.102889 main     OS Release: 5.15.0-161-generic
+10:20:01.103514 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+10:20:01.104202 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+10:20:01.104203 main     Process ID: 2385
+10:20:01.104203 main     Package type: LINUX_64BITS_GENERIC
+10:20:01.120139 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+10:20:01.124528 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+10:20:01.128888 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+10:20:01.140049 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+10:20:01.141100 main      Service: Drag'n'Drop
+10:20:01.141681 main      Daemonizing service ...
+10:20:01.153563 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+10:20:01.153566 main     Log opened 2026-01-21T10:20:01.153558000Z
+10:20:01.154948 main     OS Product: Linux
+10:20:01.155332 main     OS Release: 5.15.0-161-generic
+10:20:01.155779 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+10:20:01.157020 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+10:20:01.157021 main     Process ID: 2391
+10:20:01.157022 main     Package type: LINUX_64BITS_GENERIC
+10:20:01.160308 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+10:20:01.161368 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+10:20:01.165541 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+10:20:01.175949 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+10:20:01.177126 main      Service: VirtualBox host version check
+10:20:01.177741 main      Daemonizing service ...
+10:20:01.190677 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+10:20:01.190680 main     Log opened 2026-01-21T10:20:01.190670000Z
+10:20:01.192288 main     OS Product: Linux
+10:20:01.192679 main     OS Release: 5.15.0-161-generic
+10:20:01.193644 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+10:20:01.194766 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+10:20:01.194767 main     Process ID: 2399
+10:20:01.194768 main     Package type: LINUX_64BITS_GENERIC
+10:20:01.196976 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+10:20:01.197816 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+10:20:01.203366 main      rtldrNativeLoad: dlopen('libX11.so', RTLD_NOW | RTLD_LOCAL) failed: libX11.so: cannot open shared object file: No such file or directory
+10:20:01.210556 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+10:20:01.211344 main      Service: VMSVGA display assistant
+10:20:01.211923 main      Daemonizing service ...
+New PolkitAgentListener  0x55e2f8a0f600
+Adding new listener  PolkitQt1::Agent::Listener(0x7ffe7b8ecf80) for  0x55e2f8a0f600
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+isPrimaryInstance
+WinIdChange e00008 handle QWidgetWindow(0x5638a107a070, name="LXQtPanel panel1Window") QScreen(0x5638a0dd1720, name="Virtual1")
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+systemd: "CanHibernate" = "no"
+** Dbus error **************************
+Error name  "org.freedesktop.DBus.Error.InvalidArgs"
+Error msg   "No such interface “org.freedesktop.DBus.Properties”"
+****************************************
+dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+systemd: "CanSuspend" = "yes"
+Systray started
+()
+systemd: "CanReboot" = "yes"
+systemd: "CanPowerOff" = "yes"
+Starting idlenesswatcher
+"PowerButton" "" ""
+"SuspendButton" "" ""
+"HibenateButton" "" ""
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+[Notice] Started
+operation finished: 0x0
+delete MountOperation
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+execAction "/usr/share/applications/pcmanfm-qt.desktop"
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+execAction "/usr/share/applications/pcmanfm-qt.desktop"
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+[Parent 5974, Main Thread] WARNING: Failed to mkdir /home/alfgba/snap/firefox/7672/.config/ibus/bus: Not a directory: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox_firefox:5974): IBUS-WARNING **: 11:01:43.018: Failed to mkdir /home/alfgba/snap/firefox/7672/.config/ibus/bus: Not a directory
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+[Parent 7056, Main Thread] WARNING: Failed to mkdir /home/alfgba/snap/firefox/7672/.config/ibus/bus: Not a directory: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox_firefox:7056): IBUS-WARNING **: 11:01:58.342: Failed to mkdir /home/alfgba/snap/firefox/7672/.config/ibus/bus: Not a directory
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+[Parent 8480, Main Thread] WARNING: Failed to mkdir /home/alfgba/snap/firefox/7672/.config/ibus/bus: Not a directory: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox_firefox:8480): IBUS-WARNING **: 11:03:06.920: Failed to mkdir /home/alfgba/snap/firefox/7672/.config/ibus/bus: Not a directory
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+Xsession: X session started for alfgba at vie 23 ene 2026 08:40:32 UTC
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/alfgba/.Xauthority
+localuser:alfgba being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-Lubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting DESKTOP_SESSION=Lubuntu
+dbus-update-activation-environment: setting PWD=/home/alfgba
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting LOGNAME=alfgba
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/alfgba/.Xauthority
+dbus-update-activation-environment: setting HOME=/home/alfgba
+dbus-update-activation-environment: setting LANG=es_ES.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=alfgba
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+08:40:32.500334 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+08:40:32.500338 main     Log opened 2026-01-23T08:40:32.499583000Z
+08:40:32.501730 main     OS Product: Linux
+08:40:32.502115 main     OS Release: 5.15.0-161-generic
+08:40:32.502552 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+08:40:32.503181 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+08:40:32.503182 main     Process ID: 2304
+08:40:32.503183 main     Package type: LINUX_64BITS_GENERIC
+08:40:32.504202 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+08:40:32.504966 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+08:40:32.507081 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+08:40:32.507630 main      Service: Shared Clipboard
+08:40:32.508089 main      Daemonizing service ...
+08:40:32.510808 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+08:40:32.510810 main     Log opened 2026-01-23T08:40:32.510802000Z
+08:40:32.511867 main     OS Product: Linux
+08:40:32.512934 main     OS Release: 5.15.0-161-generic
+08:40:32.513783 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+08:40:32.514575 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+08:40:32.514576 main     Process ID: 2308
+08:40:32.514576 main     Package type: LINUX_64BITS_GENERIC
+08:40:32.515742 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+08:40:32.516607 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+08:40:32.520002 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+08:40:32.520653 main      Service: Seamless Mode Support
+08:40:32.521244 main      Daemonizing service ...
+08:40:32.526465 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+08:40:32.526467 main     Log opened 2026-01-23T08:40:32.526459000Z
+08:40:32.527514 main     OS Product: Linux
+08:40:32.528335 main     OS Release: 5.15.0-161-generic
+08:40:32.529056 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+08:40:32.529727 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+08:40:32.529728 main     Process ID: 2316
+08:40:32.529729 main     Package type: LINUX_64BITS_GENERIC
+08:40:32.530706 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+08:40:32.531483 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+08:40:32.533885 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+08:40:32.534550 main      Service: Drag'n'Drop
+08:40:32.534992 main      Daemonizing service ...
+08:40:32.537536 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+08:40:32.537539 main     Log opened 2026-01-23T08:40:32.537532000Z
+08:40:32.538573 main     OS Product: Linux
+08:40:32.539068 main     OS Release: 5.15.0-161-generic
+08:40:32.539561 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+08:40:32.540245 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+08:40:32.540246 main     Process ID: 2324
+08:40:32.540246 main     Package type: LINUX_64BITS_GENERIC
+08:40:32.541327 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+08:40:32.542321 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+08:40:32.546168 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+08:40:32.546809 main      Service: VirtualBox host version check
+08:40:32.547605 main      Daemonizing service ...
+08:40:32.552479 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+08:40:32.552481 main     Log opened 2026-01-23T08:40:32.552474000Z
+08:40:32.557000 main     OS Product: Linux
+08:40:32.557434 main     OS Release: 5.15.0-161-generic
+08:40:32.557916 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+08:40:32.558557 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+08:40:32.558558 main     Process ID: 2332
+08:40:32.558558 main     Package type: LINUX_64BITS_GENERIC
+08:40:32.559622 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+08:40:32.560409 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+08:40:32.562844 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+08:40:32.563415 main      Service: VMSVGA display assistant
+08:40:32.563970 main      Daemonizing service ...
+08:40:33.474588 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+08:40:33.474608 main     Log opened 2026-01-23T08:40:33.474582000Z
+08:40:33.493435 main     OS Product: Linux
+08:40:33.493928 main     OS Release: 5.15.0-161-generic
+08:40:33.494503 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+08:40:33.495462 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+08:40:33.495463 main     Process ID: 2433
+08:40:33.495464 main     Package type: LINUX_64BITS_GENERIC
+08:40:33.496524 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+isPrimaryInstance
+08:40:33.497346 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+08:40:33.550387 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+08:40:33.551021 main      Service: Shared Clipboard
+08:40:33.551512 main      Daemonizing service ...
+08:40:33.567888 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+08:40:33.567891 main     Log opened 2026-01-23T08:40:33.567883000Z
+08:40:33.569028 main     OS Product: Linux
+08:40:33.572356 main     OS Release: 5.15.0-161-generic
+08:40:33.572995 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+08:40:33.574227 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+08:40:33.574230 main     Process ID: 2445
+08:40:33.574231 main     Package type: LINUX_64BITS_GENERIC
+08:40:33.584414 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+08:40:33.588106 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+08:40:33.599152 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+08:40:33.605371 main      Service: Seamless Mode Support
+08:40:33.607727 main      Daemonizing service ...
+08:40:33.641796 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+08:40:33.641799 main     Log opened 2026-01-23T08:40:33.641791000Z
+08:40:33.643069 main     OS Product: Linux
+08:40:33.643423 main     OS Release: 5.15.0-161-generic
+08:40:33.643965 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+08:40:33.644638 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+08:40:33.644639 main     Process ID: 2451
+08:40:33.644640 main     Package type: LINUX_64BITS_GENERIC
+08:40:33.653407 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+08:40:33.660242 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+08:40:33.696706 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+08:40:33.697443 main      Service: Drag'n'Drop
+08:40:33.697886 main      Daemonizing service ...
+New PolkitAgentListener  0x558edb126400
+Adding new listener  PolkitQt1::Agent::Listener(0x7ffcd8932020) for  0x558edb126400
+08:40:33.746798 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+08:40:33.746800 main     Log opened 2026-01-23T08:40:33.746793000Z
+08:40:33.747914 main     OS Product: Linux
+08:40:33.748300 main     OS Release: 5.15.0-161-generic
+08:40:33.748812 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+08:40:33.749829 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+08:40:33.749830 main     Process ID: 2464
+08:40:33.749831 main     Package type: LINUX_64BITS_GENERIC
+08:40:33.751188 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+08:40:33.754791 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+08:40:33.769121 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+08:40:33.770209 main      Service: VirtualBox host version check
+08:40:33.770892 main      Daemonizing service ...
+08:40:33.775517 main     VBoxClient 7.2.0 r170228 (verbosity: 0) linux.amd64 (Aug 13 2025 22:11:09) release log
+08:40:33.775519 main     Log opened 2026-01-23T08:40:33.775511000Z
+08:40:33.776692 main     OS Product: Linux
+08:40:33.777049 main     OS Release: 5.15.0-161-generic
+08:40:33.778736 main     OS Version: #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025
+08:40:33.780884 main     Executable: /opt/VBoxGuestAdditions-7.2.0/bin/VBoxClient
+08:40:33.780886 main     Process ID: 2473
+08:40:33.780887 main     Package type: LINUX_64BITS_GENERIC
+08:40:33.783910 main      VBoxClient 7.2.0 r170228 started. Verbose level = 0
+08:40:33.787173 main      rtldrNativeLoad: dlopen('libwayland-client.so', RTLD_NOW | RTLD_LOCAL) failed: libwayland-client.so: cannot open shared object file: No such file or directory
+08:40:33.801073 main      Session type is: VBGHDISPLAYSERVERTYPE_X11
+08:40:33.802617 main      Service: VMSVGA display assistant
+08:40:33.804893 main      Daemonizing service ...
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+systemd: "CanHibernate" = "no"
+** Dbus error **************************
+Error name  "org.freedesktop.DBus.Error.InvalidArgs"
+Error msg   "No such interface “org.freedesktop.DBus.Properties”"
+****************************************
+dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+systemd: "CanSuspend" = "yes"
+systemd: "CanReboot" = "yes"
+systemd: "CanPowerOff" = "yes"
+WinIdChange 1000008 handle QWidgetWindow(0x55fff4cd2a00, name="LXQtPanel panel1Window") QScreen(0x55fff4a1ec40, name="Virtual1")
+Systray started
+()
+Starting idlenesswatcher
+"PowerButton" "" ""
+"SuspendButton" "" ""
+"HibenateButton" "" ""
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Unknown property margin-button
+Unknown property margin-button
+Unknown property margin-button
+[Notice] Started
+operation finished: 0x0
+delete MountOperation
+Leyendo lista de paquetes... 0%Leyendo lista de paquetes... 100%Leyendo lista de paquetes... Hecho
+Creando árbol de dependencias... 0%Creando árbol de dependencias... 0%Creando árbol de dependencias... 50%Creando árbol de dependencias... 50%Creando árbol de dependencias... Hecho
+Leyendo la información de estado... 0%Leyendo la información de estado... 0%Leyendo la información de estado... Hecho
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 817, resource id: 39845894, major code: 18 (ChangeProperty), minor code: 0
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+execAction "/usr/share/applications/pcmanfm-qt.desktop"
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/local/share/doc /usr/local/share/doc none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/local/share/doc" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/gimp/2.0/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gtk-doc /usr/share/gtk-doc none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/gtk-doc" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/javascript /usr/share/javascript none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/javascript" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/libreoffice/help /usr/share/libreoffice/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/libreoffice/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme /usr/share/sphinx_rtd_theme none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/xubuntu-docs" because it would affect the host in "/var/lib/snapd"
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+[Parent 43245, Main Thread] WARNING: Failed to mkdir /home/alfgba/snap/firefox/7672/.config/ibus/bus: Not a directory: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox_firefox:43245): IBUS-WARNING **: 09:40:46.446: Failed to mkdir /home/alfgba/snap/firefox/7672/.config/ibus/bus: Not a directory
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+[Parent 44687, Main Thread] WARNING: Failed to mkdir /home/alfgba/snap/firefox/7672/.config/ibus/bus: Not a directory: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox_firefox:44687): IBUS-WARNING **: 09:40:59.821: Failed to mkdir /home/alfgba/snap/firefox/7672/.config/ibus/bus: Not a directory
+execAction "/usr/share/applications/pcmanfm-qt.desktop"
+Icon theme "elementary" not found.
+Icon theme "breeze" not found.
+execAction "/usr/share/applications/pcmanfm-qt.desktop"
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings
+[Parent 56402, Main Thread] WARNING: Failed to mkdir /home/alfgba/snap/firefox/7672/.config/ibus/bus: Not a directory: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox_firefox:56402): IBUS-WARNING **: 10:04:27.649: Failed to mkdir /home/alfgba/snap/firefox/7672/.config/ibus/bus: Not a directory
+xdg-settings: $BROWSER is set and can't be changed with xdg-settings

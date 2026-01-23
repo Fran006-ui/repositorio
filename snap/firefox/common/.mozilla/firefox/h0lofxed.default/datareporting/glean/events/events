@@ -1,0 +1,15 @@
+{"timestamp":5163293,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"loadfail_reason":"N/A","path_key":"clean","glean_timestamp":"1769162668419","can_load":"true"}}
+{"timestamp":5163294,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"path_key":"clean","loadfail_reason":"N/A","glean_timestamp":"1769162668419","can_load":"true"}}
+{"timestamp":5163294,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"shutdown_reason":"N/A","shutdown_ok":"false","glean_timestamp":"1769162668419"}}
+{"timestamp":5163794,"category":"webcompatreporting","name":"reason_dropdown","extra":{"glean_timestamp":"1769162668919","setting":"required"}}
+{"timestamp":5164479,"category":"nimbus_events","name":"startup_database_consistency","extra":{"total_store_count":"42","trigger":"startup","primary":"database","glean_timestamp":"1769162669604","total_db_count":"42","store_active_count":"35","db_active_count":"35"}}
+{"timestamp":5164678,"category":"jsonfile","name":"load_autofillprofiles","extra":{"glean_timestamp":"1769162669803","value":"error_notfounderror"}}
+{"timestamp":5164745,"category":"doh","name":"state_rollback","extra":{"glean_timestamp":"1769162669870","value":"null"}}
+{"timestamp":5165488,"category":"normandy","name":"enroll_failed_nimbus_experiment","extra":{"glean_timestamp":"1769162670613","reason":"feature-conflict","value":"account-spotlight-modal-global-rollout-v3"}}
+{"timestamp":5165488,"category":"nimbus_events","name":"enroll_failed","extra":{"reason":"feature-conflict","experiment":"account-spotlight-modal-global-rollout-v3","glean_timestamp":"1769162670613"}}
+{"timestamp":5165612,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1769162670737"}}
+{"timestamp":5165635,"category":"containers","name":"container_profile_loaded","extra":{"containers":"4","glean_timestamp":"1769162670760"}}
+{"timestamp":5165772,"category":"jsonfile","name":"load_logins","extra":{"value":"error_notfounderror","glean_timestamp":"1769162670898"}}
+{"timestamp":5165775,"category":"upgrade_dialog","name":"trigger_reason","extra":{"glean_timestamp":"1769162670901","value":"not-major"}}
+{"timestamp":6001827,"category":"link.handling","name":"open_from_external_app","extra":{"next_to_active_tab":"false","glean_timestamp":"1769163506952"}}
+{"timestamp":8116641,"category":"doh","name":"state_shutdown","extra":{"value":"null","glean_timestamp":"1769165621766"}}
